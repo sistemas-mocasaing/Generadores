@@ -1,0 +1,71 @@
+# Archivos GAM #
+###################
+connection.gam
+application.gam
+
+# Archivos config #
+###################
+web.config
+appsettings.json
+
+# Archivos log #
+###################
+*.log
+
+# Archivos csv #
+###################
+*.csv
+
+# Archivos pdf #
+###################
+*.pdf
+
+# Archivos xls #
+###################
+*.xls
+*.xlsx
+
+# Directorios temporales #
+###################
+PrivateTempStorage/
+PublicTempStorage/
+PlantillasExcel/
+
+# Archivos Business Component #
+*_bc.dll
+
+# Archivos Diversos tipos
+*.VER
+*.cs
+*.template
+*.info
+*.exe
+*.yaml
+*.props
+*.gxdproj
+*.bld
+*.targets
+*.WEB
+*.data
+*.031
+*.csproj
+*.msbuild
+*.log
+*.ini
+*.csv
+*.xsl
+*.def
+*.zip
+*.htm
+*.GEN
+*.pdb
+*.key
+*.otf
+*.cache
+*.tmp
+*.DashboardViewer
+*.UnanimoAngular
+*.UnanimoControls
+*.UnanimoMobile
+*.UnanimoWeb
+*.WorkWithPlusBaseDS
