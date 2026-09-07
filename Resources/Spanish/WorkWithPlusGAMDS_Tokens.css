@@ -1,0 +1,19 @@
+@layer WorkWithPlusGAMDS{
+:root
+{
+	--colors_primary : #12a2b4;
+	--colors_primary-active : #12a2b4;
+	--colors_primary-hover : rgba(8,152,170,255);
+	--colors_baseforecolor : white;
+	--colors_primary-hover-20 : rgba(18, 162, 180, 0.1);
+	--colors_gray08 : #575b5d;
+	--colors_on-secondary : #607D8B;
+	--colors_secondary-enabled : #FCFCFC;
+	--colors_secondary-active : #12a2b4;
+	--fonts_primary-light : muli,sans-serif;
+	--fonts_primary-regular : muli,sans-serif;
+	--fonts_primary-semibold : muli,sans-serif;
+	--fonts_primary-bold : muli,sans-serif;
+
+}
+}

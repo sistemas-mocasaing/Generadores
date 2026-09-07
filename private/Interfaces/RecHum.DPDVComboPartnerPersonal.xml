@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="c093336b-1b07-4752-9117-267f9189f03e" name="RecHum.DPDVComboPartnerPersonal" description="DPDVCombo Partner Personal" namespace="GeneXus.Programs">
+  <Signature name="par">
+    <Parameter name="TieneSubordinados">
+      <Field>
+        <Properties>
+          <Property>
+            <Name>Type</Name>
+            <Value>Boolean</Value>
+          </Property>
+        </Properties>
+      </Field>
+    </Parameter>
+    <Parameter name="ReturnValue" accessor="out">
+      <Field name="DVB_SDTComboData" description="DVB_SDTCombo Data" collection="true">
+        <Fields>
+          <Field name="ID" description="ID">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="Title" description="Title">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="Children" description="Children">
+            <Fields />
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

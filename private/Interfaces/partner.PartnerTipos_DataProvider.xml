@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="63028bab-7953-7b25-a8ea-04395ba93cc9" name="partner.PartnerTipos_DataProvider" description="Partner Tipos_Data Provider" namespace="GeneXus.Programs">
+  <Signature name="parm">
+    <Parameter name="ReturnValue" accessor="out" collection="true">
+      <Field name="PartnerTipos" description="Partner Tipos">
+        <Fields>
+          <Field name="PartnerTiposId" description="Partner Tipos Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerTipoId" description="Partner Tipo Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerTipoNombre" description="Partner Tipo Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerId" description="Partner Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerNombre" description="Partner Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerPaternoNombre" description="Partner Paterno Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerMaternoNombre" description="Partner Materno Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerCompletoNombre" description="Partner Completo Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerRFC" description="Partner RFC">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>13</Value>
+              </Property>
+            </Properties>
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

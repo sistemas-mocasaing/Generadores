@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.reco.wclstproveedorpartnerv001getfilterdata,reco.wclstproveedorpartnerv001getfilterdata" %>

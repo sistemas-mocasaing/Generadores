@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="ec77f648-6a6d-4ec6-b7e6-7627fa92cdb0" name="Activos.DPSDTPersonalActivos" description="DPSDTPersonal Activos" namespace="GeneXus.Programs">
+  <Signature name="parm">
+    <Parameter name="ReturnValue" accessor="out">
+      <Field name="SDTPersonalActivos" description="SDTPersonal Activos" collection="true">
+        <Fields>
+          <Field name="PersonalId" description="Personal Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+              <Property>
+                <Name>Picture</Name>
+                <Value>ZZZZZZZZZZZZZZZZZ9</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PersonalNombre" description="Personal Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PersonalPrimerApellido" description="Personal Primer Apellido">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PersonalSegundoApellido" description="Personal Segundo Apellido">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="SDTPersonalActivosItemActivosAsignados" description="SDTPersonal Activos Item Activos Asignados">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>4</Value>
+              </Property>
+              <Property>
+                <Name>Picture</Name>
+                <Value>ZZZ9</Value>
+              </Property>
+            </Properties>
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

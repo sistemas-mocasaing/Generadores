@@ -1,0 +1,4 @@
+{
+
+"GxObject":{"ObjectType":"BusinessComponent","Name":"finanzas.Formato","idConnectivitySupport":"idInherit","Structure":{"Levels":[{"Name":"Formato","ParentLevel":"","LevelName":"finanzas.Formato","Description":"Formato","Attributes":[{"Name":"FormatoId","Caption":"Formato Id","default":"0","AutoNumber":"true","IsKey":"true","ReadOnly":"false","AttributeType":"int","Description":"Formato Id","Length":"18","Decimals":"0","Signed":"false","AllowDBNulls":"false","Domain":"Id","InternalName":"FormatoId","InputPicture":"ZZZZZZZZZZZZZZZZZ9","Type":"xs:int"},{"Name":"FormatoNombre","Caption":"Formato Nombre","default":"","IsKey":"false","ReadOnly":"false","AttributeType":"svchar","Description":"Formato Nombre","Length":"200","Decimals":"0","Signed":"false","AllowDBNulls":"false","Domain":"Master\\Nombre","InternalName":"FormatoNombre","DescriptionAtt":"true","InputPicture":"","Type":"xs:string"}]}]},"Relations":{"ManyToOne":{"references":[]}}}
+}

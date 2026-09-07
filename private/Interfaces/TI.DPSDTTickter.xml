@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="fc4962e4-7e01-40f6-b4e8-218d733c2167" name="TI.DPSDTTickter" description="DPSDTTickter" namespace="GeneXus.Programs">
+  <Signature name="parm">
+    <Parameter name="ReturnValue" accessor="out">
+      <Field name="SDTTicket" description="SDTTicket" collection="true">
+        <Fields>
+          <Field name="TicketId" description="Ticket Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+              <Property>
+                <Name>Picture</Name>
+                <Value>ZZZZZZZZZZZZZZZZZ9</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TicketDescripcion" description="Ticket Descripcion">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>2000</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TicketFechaSolicitud" description="Ticket Fecha Solicitud">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>DateTime</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>8</Value>
+              </Property>
+              <Property>
+                <Name>Decimals</Name>
+                <Value>5</Value>
+              </Property>
+              <Property>
+                <Name>Picture</Name>
+                <Value>99/99/99 99:99</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TicketNivelSoporte" description="Ticket Nivel Soporte">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TicketPrioridad" description="Ticket Prioridad">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TicketEstatus" description="Ticket Estatus">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TicketFechaResuelto" description="Ticket Fecha Resuelto">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>DateTime</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>8</Value>
+              </Property>
+              <Property>
+                <Name>Decimals</Name>
+                <Value>5</Value>
+              </Property>
+              <Property>
+                <Name>Picture</Name>
+                <Value>99/99/99 99:99</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TicketTiempoResuelto" description="Ticket Tiempo Resuelto">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>4</Value>
+              </Property>
+              <Property>
+                <Name>Picture</Name>
+                <Value>ZZZ9</Value>
+              </Property>
+            </Properties>
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

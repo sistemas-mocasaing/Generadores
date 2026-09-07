@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects xmlns="qv">
+  <Object name="General.UI.SidebarItemsDP" id="1" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="SidebarItemsDP" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.Configuracion_DataProvider" id="2" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="Configuracion_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WWPBaseObjects.GetSomeHomeModulesSample" id="3" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="GetSomeHomeModulesSample" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WWPBaseObjects.WWP_LoadTreeViewSampleData" id="4" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="WWP_LoadTreeViewSampleData" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WWPBaseObjects.SecGAMGetAdvancedSecurityWWPFunctionalities" id="5" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="SecGAMGetAdvancedSecurityWWPFunctionalities" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WWPBaseObjects.GetHomeModulesSample" id="6" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="GetHomeModulesSample" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WWPBaseObjects.GetMainHomeModulesSample" id="7" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="GetMainHomeModulesSample" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WWPBaseObjects.MenuOptionsData" id="8" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="MenuOptionsData" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPMainMenu" id="9" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPMainMenu" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="OrganizacionTerritorial.DPComboEntidadFederativa" id="10" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboEntidadFederativa" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="OrganizacionTerritorial.DPEntidadFederativa" id="11" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPEntidadFederativa" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPAdministracion" id="13" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPAdministracion" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPNull" id="14" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPNull" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPGam" id="15" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPGam" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPRecHum" id="16" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPRecHum" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="RecHum.DPDVComboPersonal" id="17" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPDVComboPersonal" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Administracion.DPDVComboProyecto" id="18" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPDVComboProyecto" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPConfiguracion" id="19" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPConfiguracion" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.Entity_DataProvider" id="20" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="Entity_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Storage.DPTreeEntityFiles" id="21" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPTreeEntityFiles" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPContabilidad" id="22" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPContabilidad" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.TipoRegistro_DataProvider" id="23" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="TipoRegistro_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Utilerias.UnidadMedida_DataProvider" id="24" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="UnidadMedida_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.Contrato_DataProvider" id="25" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="Contrato_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPSDTFormaE6Conceptos" id="27" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTFormaE6Conceptos" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPSegYCtrl" id="28" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSegYCtrl" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Storage.DPSDTEntitiesDirectory" id="30" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTEntitiesDirectory" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Storage.DPSDTEntitiesArchivo" id="31" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTEntitiesArchivo" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.TelerikReport_DataProvider" id="33" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="TelerikReport_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPSDTTelerikReports" id="34" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTTelerikReports" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPSDTFormaE6Registros" id="35" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTFormaE6Registros" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="OrganizacionTerritorial.EntidadFederativa_DataProvider" id="36" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="EntidadFederativa_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPSDTFormaE7Conceptos" id="37" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTFormaE7Conceptos" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.TipoDocDinamico_DataProvider" id="38" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="TipoDocDinamico_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Storage.Directorio_DataProvider" id="39" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="Directorio_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Storage.EntityDirectorio_DataProvider" id="40" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="EntityDirectorio_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.FormaE6FechasConRegistro_DataProvider" id="42" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="FormaE6FechasConRegistro_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.CategoriaDocumento_DataProvider" id="43" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="CategoriaDocumento_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="partner.PartnerTipos_DataProvider" id="44" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="PartnerTipos_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="partner.PartnerTipo_DataProvider" id="45" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="PartnerTipo_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.Contratista_DataProvider" id="46" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="Contratista_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="partner.Partner_DataProvider" id="47" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="Partner_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPSDTComboCategoriasDocumentos" id="48" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTComboCategoriasDocumentos" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPSDTContratoContratistas" id="49" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTContratoContratistas" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.ContratoContratistas_DataProvider" id="50" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="ContratoContratistas_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPClonarDocContrato" id="51" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPClonarDocContrato" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPTreeContratoDocValido" id="52" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPTreeEntityFiles" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="partner.PartnerUsuario_DataProvider" id="53" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="PartnerUsuario_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="partner.DPSDTPartnerUsuarios" id="54" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTPartnerUsuarios" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="partner.DPComboPartnerUsuario" id="55" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboPartnerUsuario" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPTreeContratoDocConfig" id="56" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPTreeEntityFiles" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPSDTContratoDocValidos" id="57" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTContratoDocValidos" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPComboConceptos" id="59" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboConceptos" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.TipoRegistroE6_DataProvider" id="60" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="TipoRegistroE6_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPComboContratoPartner" id="61" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboContratoPartner" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPSDTContratosWS" id="62" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTContratosWS" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Task.EntityTask_DataProvider" id="63" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="EntityTask_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.EvidenciasContrato_DataProvider" id="67" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="EvidenciasContrato_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPGaleria" id="69" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPGaleria" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPSDTEvidenciasContrato" id="70" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTEvidenciasContrato" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Storage.DPTreeDirectory" id="71" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPTreeEntityFiles" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPMiEspacio" id="72" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPAdministracion" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Storage.DPSDTArchivosERP" id="73" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTArchivosERP" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Storage.DPSDTArchivosSecoi" id="74" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTArchivosSecoi" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPOtrosDocumentos" id="75" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPAdministracion" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPSDTGaleriaContratos" id="76" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTGaleriaContratos" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="RecHum.Permiso_DataProvider" id="77" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="Permiso_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="RecHum.DPSDTPersonaRequisitos" id="78" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTPersonaRequisitos" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="RecHum.DPSDTPersonalReqDomIdioma" id="79" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTPersonalReqDomIdioma" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="RecHum.DPDVComboPuesto" id="80" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPPuesto" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="RecHum.DPOCPuestoOrganigrama" id="81" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPOCPuestoOrganigrama" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="RecHum.DPOCJefeSubordinado" id="82" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPOCJefeSubordinado" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="MiEspacio.DPDVComboSubordinado" id="83" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPDVComboSubordinado" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="RecHum.DPSDTEntrevistaMatrizCriterios" id="84" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTEntrevistaMatrizCriterios" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="partner.DPDVCompboPartner" id="85" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPDVCompboPartner" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="partner.DPDVComboPartnerTipoNoGAM" id="86" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPDVComboPartnerTipoNoGAM" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="partner.DPDVCompboPartnerEntity" id="87" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPDVCompboPartner" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPActivos" id="89" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPAdministracion" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Activos.DPDVComboActivoTipoDepto" id="90" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPDVComboActivoTipoDepto" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Activos.DPSDTPersonalActivos" id="91" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTPersonalActivos" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Activos.PersonalActivosAsignados_DataProvider" id="92" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="PersonalActivosAsignados_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPEncuesta" id="93" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPAdministracion" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPMinuta" id="94" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPAdministracion" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Encuesta.DPSDTOpcionMultiple" id="95" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTOpcionMultiple" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="RecHum.DPDVComboPartnerPersonal" id="96" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPDVComboPartnerPersonal" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPIso" id="97" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPAdministracion" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPReco" id="98" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPAdministracion" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Reco.PartnerRECO_DataProvider" id="100" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="PartnerRECO_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="ISO.DPComboNormaPuntos" id="101" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboNormaPuntos" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="ISO.DPTreeManualPuntos" id="102" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPTreeManualPuntos" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="RecHum.NominaPeriodo_DataProvider" id="103" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="NominaPeriodo_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Contabilidad.DPSDTNominaTest" id="104" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTNominaTest" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="finanzas.vwProyectoViaticoTipoComprobante_DataProvider" id="105" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="vwProyectoViaticoTipoComprobante_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPDireccion" id="106" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPDireccion" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WorkWithPlus.WWP_Parameter_DataProvider" id="107" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="WWP_Parameter_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WWPBaseObjects.Notifications.Common.WWP_AutomaticNotificationDefinitionsToLoad" id="108" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="WWP_AutomaticNotificationDefinitionsToLoad" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="WWPBaseObjects.Notifications.Common.WWP_GetNotificationsForUser" id="109" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="WWP_GetNotificationsForUser" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="GAM_GetBackendMenu" id="110" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="GAMGetBackendMenu" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="GAM_GetCurrentAccountMenu" id="111" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="GAMGetCurrentAccountMenu" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="GAM_GetTotalUsers" id="112" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="GAM_GetTotalUsers" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="GAM_GetTotalSessions" id="113" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="GAM_GetTotalSessions" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="GAM_GetTotalSessionsByApplication" id="114" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="GAM_GetTotalSessionsByApplication" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="GAM_GetTotalSessionsByDay" id="115" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="GAM_GetTotalSessionsByDay" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="GAM_GetTotalRegisteredUsers" id="116" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="GAM_GetTotalRegisteredUsers" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="GAM_GetTotalActiveSessions" id="117" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="GAM_GetTotalActiveSessions" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.DPSDTContratosCumplimientos" id="119" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTContratosCumplimientos" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="TI.DPSDTTickter" id="120" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPSDTTickter" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPTInf" id="121" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPTInf" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="TI.TicketNivelTiempoRespuesta_DataProvider" id="122" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="TicketNivelTiempoRespuesta_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Propuestas.Convocante_DataProvider" id="123" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="Convocante_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Propuestas.Licitante_DataProvider" id="124" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="Licitante_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Master.DPPropuesta" id="125" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPPropuesta" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="partner.DPDVComboPartnerPorTipo" id="126" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPDVComboPartnerPorTipo" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Storage.DPTreeDocumento" id="128" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPTreeDocumento" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Storage.DPTreeEntityDocumento" id="129" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPTreeEntityDocumento" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SICT.ProyectoSCT_DataProvider" id="130" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="ProyectoSCT_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Storage.DPComboDocumentoXCategoria" id="131" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboDocumentoXCategoria" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SICT.DPComboProgramaContrato" id="132" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboProgramaContrato" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SICT.DPComboTramo" id="133" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboTramo" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SICT.DPComboCarretera" id="134" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboCarretera" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SICT.DPComboTipoRed" id="135" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboTipoRed" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SICT.DPComboParticipanteXContrato" id="136" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboCarretera" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SICT.DPComboTramoSICT" id="137" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboTramo" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SICT.BacheXEmpresa_DataProvider" id="149" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="BacheXEmpresa_DataProvider" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SICT.DPSDTBachesXEmpresas" id="150" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPBachesXEmpresas" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SICT.DPComboConceptos" id="159" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboConceptos" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.QryAvancesFisicos" id="1" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QryAvancesFisicos" xmlns="qv">
+    <DefaultOutput type="OutputTypeTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.QryAvancesFinancieros" id="2" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QryAvancesFinancieros" xmlns="qv">
+    <DefaultOutput type="OutputTypeTable" xmlns="qv" />
+  </Object>
+  <Object name="Contabilidad.QryNomina" id="3" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QryNomina" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Direccion.QryViaticoTipoComprobante" id="4" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QryViaticoTipoComprobante" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="Direccion.QryViaticoProyectoTipo" id="5" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QryViaticoProyectoTipo" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.QryContratosCumplimiento" id="6" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QryContratosCumplimiento" xmlns="qv">
+    <DefaultOutput type="OutputTypeTable" xmlns="qv" />
+  </Object>
+  <Object name="RecHum.QryPersonalRotacion" id="7" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QryPersonalRotacion" xmlns="qv">
+    <DefaultOutput type="OutputTypeTable" xmlns="qv" />
+  </Object>
+  <Object name="ISO.QryRiesgoEvolucionArea" id="8" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QryRiesgoEvolucionArea" xmlns="qv">
+    <DefaultOutput type="OutputTypeTable" xmlns="qv" />
+  </Object>
+  <Object name="ISO.QryHistoricoRiesgoEvol" id="9" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QryHistoricoRiesgoEvol" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="ISO.QryHistoricoEvolucion" id="10" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QryHistoricoEvolucion" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="TI.QrTicket" id="11" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QrTicket" xmlns="qv">
+    <DefaultOutput type="OutputTypeTable" xmlns="qv" />
+  </Object>
+  <Object name="SICT.QryBacheXMes" id="12" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QryBacheXMes" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+  <Object name="SegCtrl.QryEjecutadoTrabajo" id="14" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QryEjecutadoTrabajo" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
+</Objects>

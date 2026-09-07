@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="e530141b-e11a-461d-81db-6b8b2908c2ee" name="SegCtrl.DPTreeContratoDocConfig" description="DPTree Contrato Doc Config" namespace="GeneXus.Programs">
+  <Signature name="par">
+    <Parameter name="DirectorioId">
+      <Field>
+        <Properties>
+          <Property>
+            <Name>Type</Name>
+            <Value>Numeric</Value>
+          </Property>
+          <Property>
+            <Name>Length</Name>
+            <Value>18</Value>
+          </Property>
+        </Properties>
+      </Field>
+    </Parameter>
+    <Parameter name="ContratoId">
+      <Field>
+        <Properties>
+          <Property>
+            <Name>Type</Name>
+            <Value>Numeric</Value>
+          </Property>
+          <Property>
+            <Name>Length</Name>
+            <Value>18</Value>
+          </Property>
+        </Properties>
+      </Field>
+    </Parameter>
+    <Parameter name="EntityId">
+      <Field>
+        <Properties>
+          <Property>
+            <Name>Type</Name>
+            <Value>Numeric</Value>
+          </Property>
+          <Property>
+            <Name>Length</Name>
+            <Value>18</Value>
+          </Property>
+        </Properties>
+      </Field>
+    </Parameter>
+    <Parameter name="ReturnValue" accessor="out">
+      <Field name="TreeNodeCollection" description="Tree Node Collection" collection="true">
+        <Fields>
+          <Field name="Id" description="Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Character</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>500</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="Name" description="Name">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Character</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>500</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="Link" description="Link">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Character</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>500</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="LinkTarget" description="Link Target">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Character</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>500</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="Expanded" description="Expanded">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Boolean</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="DynamicLoad" description="Dynamic Load">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Boolean</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="Icon" description="Icon">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Character</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>500</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="IconWhenSelected" description="Icon When Selected">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Character</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>500</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="Nodes" description="Nodes">
+            <Fields />
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

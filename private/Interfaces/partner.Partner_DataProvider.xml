@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="14ed7589-d1e7-7d02-aec7-467e05e4d6ce" name="partner.Partner_DataProvider" description="Partner_Data Provider" namespace="GeneXus.Programs">
+  <Signature name="parm">
+    <Parameter name="ReturnValue" accessor="out" collection="true">
+      <Field name="Partner" description="Partner">
+        <Fields>
+          <Field name="PartnerId" description="Partner Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerNombre" description="Partner Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerPaternoNombre" description="Partner Paterno Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerMaternoNombre" description="Partner Materno Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerRFC" description="Partner RFC">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>13</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerGAMUserGUID" description="Partner GAMUser GUID">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Character</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerCompletoNombre" description="Partner Completo Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerIsActive" description="Partner Is Active">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Boolean</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerNombreCorto" description="Partner Nombre Corto">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="GradoAcademicoId" description="Grado Academico Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="GradoAcademicoAbreviatura" description="Grado Academico Abreviatura">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="PartnerPuestoNombre" description="Partner Puesto Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

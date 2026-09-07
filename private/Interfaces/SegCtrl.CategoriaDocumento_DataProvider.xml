@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="85998b39-b0cf-78ea-9699-57726b2c3370" name="SegCtrl.CategoriaDocumento_DataProvider" description="Categoria Documento_Data Provider" namespace="GeneXus.Programs">
+  <Signature name="parm">
+    <Parameter name="ReturnValue" accessor="out" collection="true">
+      <Field name="CategoriaDocumento" description="Categoria Documento">
+        <Fields>
+          <Field name="CategoriaDocumentoId" description="Categoria Documento Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="CategoriaDocumentoNombre" description="Categoria Documento Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="CategoriaDocumentoDescripcion" description="Categoria Documento Descripcion">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>2000</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="CategoriaDocumentoOrden" description="Categoria Documento Orden">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>4</Value>
+              </Property>
+            </Properties>
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

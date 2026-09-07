@@ -1,0 +1,3664 @@
+<?xml-stylesheet type='text/xsl' href='prgs.xsl'?><Objects>
+  <Charset>UTF-8</Charset>
+  <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus18/</Path>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Master.Entity</ObjName>
+    <ObjDesc>Master.Entity</ObjDesc>
+    <ObjLink>master.entity.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Test.TrnTest</ObjName>
+    <ObjDesc>Test.Trn Test</ObjDesc>
+    <ObjLink>test.trntest.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Master.Configuracion</ObjName>
+    <ObjDesc>Master.Configuracion</ObjDesc>
+    <ObjLink>master.configuracion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Storage.Archivo</ObjName>
+    <ObjDesc>Storage.Archivo</ObjDesc>
+    <ObjLink>storage.archivo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Storage.Directorio</ObjName>
+    <ObjDesc>Storage.Directorio</ObjDesc>
+    <ObjLink>storage.directorio.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>WWPBaseObjects.UserCustomizations</ObjName>
+    <ObjDesc>WWPBaseObjects.User Custom</ObjDesc>
+    <ObjLink>wwpbaseobjects.usercustomizations.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Administracion.Empresa</ObjName>
+    <ObjDesc>Administracion.Empresa</ObjDesc>
+    <ObjLink>administracion.empresa.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Administracion.EmpresaDepto</ObjName>
+    <ObjDesc>Administracion.Empresa Depto</ObjDesc>
+    <ObjLink>administracion.empresadepto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>OrganizacionTerritorial.EntidadFederativa</ObjName>
+    <ObjDesc>OrganizacionTerritorial.Entidad Federativa</ObjDesc>
+    <ObjLink>organizacionterritorial.entidadfederativa.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Administracion.Proyecto</ObjName>
+    <ObjDesc>Administracion.Proyecto</ObjDesc>
+    <ObjLink>administracion.proyecto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.Puesto</ObjName>
+    <ObjDesc>RecHum.Puesto</ObjDesc>
+    <ObjLink>rechum.puesto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.NivelEducativo</ObjName>
+    <ObjDesc>RecHum.Nivel Educativo</ObjDesc>
+    <ObjLink>rechum.niveleducativo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.Profesion</ObjName>
+    <ObjDesc>RecHum.Profesion</ObjDesc>
+    <ObjLink>rechum.profesion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.TipoSangre</ObjName>
+    <ObjDesc>RecHum.Tipo Sangre</ObjDesc>
+    <ObjLink>rechum.tiposangre.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.TipoContrato</ObjName>
+    <ObjDesc>RecHum.Tipo Contrato</ObjDesc>
+    <ObjLink>rechum.tipocontrato.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.TipoLicenciaConducir</ObjName>
+    <ObjDesc>RecHum.Tipo Licencia Conducir</ObjDesc>
+    <ObjLink>rechum.tipolicenciaconducir.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.DiasVacacionesLey</ObjName>
+    <ObjDesc>RecHum.Dias Vacaciones Ley</ObjDesc>
+    <ObjLink>rechum.diasvacacionesley.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.DiaFestivo</ObjName>
+    <ObjDesc>RecHum.Dia Festivo</ObjDesc>
+    <ObjLink>rechum.diafestivo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.Personal</ObjName>
+    <ObjDesc>RecHum.Personal</ObjDesc>
+    <ObjLink>rechum.personal.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Administracion.PersonalProyecto</ObjName>
+    <ObjDesc>Administracion.Personal Proyecto</ObjDesc>
+    <ObjLink>administracion.personalproyecto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Storage.EntityDirectorio</ObjName>
+    <ObjDesc>Storage.Entity Directorio</ObjDesc>
+    <ObjLink>storage.entitydirectorio.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.PersonalPago</ObjName>
+    <ObjDesc>RecHum.Personal Pago</ObjDesc>
+    <ObjLink>rechum.personalpago.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.Concepto</ObjName>
+    <ObjDesc>SegCtrl.Concepto</ObjDesc>
+    <ObjLink>segctrl.concepto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.FormaE7</ObjName>
+    <ObjDesc>SegCtrl.Forma E7</ObjDesc>
+    <ObjLink>segctrl.formae7.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Utilerias.UnidadMedida</ObjName>
+    <ObjDesc>Utilerias.Unidad Medida</ObjDesc>
+    <ObjLink>utilerias.unidadmedida.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.Contrato</ObjName>
+    <ObjDesc>SegCtrl.Contrato</ObjDesc>
+    <ObjLink>segctrl.contrato.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.TipoRegistro</ObjName>
+    <ObjDesc>SegCtrl.Tipo Registro</ObjDesc>
+    <ObjLink>segctrl.tiporegistro.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.Periodo</ObjName>
+    <ObjDesc>SegCtrl.Periodo</ObjDesc>
+    <ObjLink>segctrl.periodo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.FormaE6Evidencia</ObjName>
+    <ObjDesc>SegCtrl.Forma E6 Evidencia</ObjDesc>
+    <ObjLink>segctrl.formae6evidencia.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Master.TelerikReport</ObjName>
+    <ObjDesc>Master.Telerik Report</ObjDesc>
+    <ObjLink>master.telerikreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.FormaE7Evidencia</ObjName>
+    <ObjDesc>SegCtrl.Forma E7 Evidencia</ObjDesc>
+    <ObjLink>segctrl.formae7evidencia.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.Material</ObjName>
+    <ObjDesc>SegCtrl.Material</ObjDesc>
+    <ObjLink>segctrl.material.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.Traslado</ObjName>
+    <ObjDesc>SegCtrl.Traslado</ObjDesc>
+    <ObjLink>segctrl.traslado.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.TipoDocDinamico</ObjName>
+    <ObjDesc>SegCtrl.Tipo Doc Dinamico</ObjDesc>
+    <ObjLink>segctrl.tipodocdinamico.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.DocDinamico</ObjName>
+    <ObjDesc>SegCtrl.Documento Dinamico de los Contratos</ObjDesc>
+    <ObjLink>segctrl.docdinamico.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.FormaE6FechasConRegistro</ObjName>
+    <ObjDesc>SegCtrl.Forma E6 Fechas Con Registro</ObjDesc>
+    <ObjLink>segctrl.formae6fechasconregistro.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.CategoriaDocumento</ObjName>
+    <ObjDesc>SegCtrl.Categoria Documento</ObjDesc>
+    <ObjLink>segctrl.categoriadocumento.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>partner.PartnerTipo</ObjName>
+    <ObjDesc>partner.Partner Tipo</ObjDesc>
+    <ObjLink>partner.partnertipo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>partner.Partner</ObjName>
+    <ObjDesc>partner.Partner</ObjDesc>
+    <ObjLink>partner.partner.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>partner.PartnerTipos</ObjName>
+    <ObjDesc>partner.Partner Tipos</ObjDesc>
+    <ObjLink>partner.partnertipos.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoDocValido</ObjName>
+    <ObjDesc>SegCtrl.Contrato Doc Valido</ObjDesc>
+    <ObjLink>segctrl.contratodocvalido.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoContratistas</ObjName>
+    <ObjDesc>SegCtrl.Contrato Contratistas</ObjDesc>
+    <ObjLink>segctrl.contratocontratistas.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoPartner</ObjName>
+    <ObjDesc>SegCtrl.Contrato Partner</ObjDesc>
+    <ObjLink>segctrl.contratopartner.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>partner.PartnerUsuario</ObjName>
+    <ObjDesc>partner.Partner Usuario</ObjDesc>
+    <ObjLink>partner.partnerusuario.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.TipoRegistroPartner</ObjName>
+    <ObjDesc>SegCtrl.Tipo Registro Partner</ObjDesc>
+    <ObjLink>segctrl.tiporegistropartner.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.TipoRegistroE6</ObjName>
+    <ObjDesc>SegCtrl.Tipo Registro E6</ObjDesc>
+    <ObjLink>segctrl.tiporegistroe6.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.FormaE6Dia</ObjName>
+    <ObjDesc>SegCtrl.Forma E6 Dia</ObjDesc>
+    <ObjLink>segctrl.formae6dia.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>partner.PartnerEntityCrudAuth</ObjName>
+    <ObjDesc>partner.Partner Entity Crud Auth</ObjDesc>
+    <ObjLink>partner.partnerentitycrudauth.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Task.UserTask</ObjName>
+    <ObjDesc>Task.User Task</ObjDesc>
+    <ObjLink>task.usertask.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.FormaE7Concepto</ObjName>
+    <ObjDesc>SegCtrl.Forma E7 Concepto</ObjDesc>
+    <ObjLink>segctrl.formae7concepto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Task.EntityTask</ObjName>
+    <ObjDesc>Task.Entity Task</ObjDesc>
+    <ObjLink>task.entitytask.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.AvancePeriodoTipo</ObjName>
+    <ObjDesc>SegCtrl.Avance Periodo Tipo</ObjDesc>
+    <ObjLink>segctrl.avanceperiodotipo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>partner.Cuenta</ObjName>
+    <ObjDesc>partner.Cuenta</ObjDesc>
+    <ObjLink>partner.cuenta.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.GaleriaContrato</ObjName>
+    <ObjDesc>SegCtrl.Galeria Contrato</ObjDesc>
+    <ObjLink>segctrl.galeriacontrato.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.EvidenciasContrato</ObjName>
+    <ObjDesc>SegCtrl.Evidencias Contrato</ObjDesc>
+    <ObjLink>segctrl.evidenciascontrato.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>finanzas.PagoViatico</ObjName>
+    <ObjDesc>finanzas.Pago Viatico</ObjDesc>
+    <ObjLink>finanzas.pagoviatico.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>finanzas.ConceptoViatico</ObjName>
+    <ObjDesc>finanzas.Concepto Viatico</ObjDesc>
+    <ObjLink>finanzas.conceptoviatico.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>finanzas.TipoComprobante</ObjName>
+    <ObjDesc>finanzas.Tipo Comprobante</ObjDesc>
+    <ObjLink>finanzas.tipocomprobante.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>finanzas.ProyectoViatico</ObjName>
+    <ObjDesc>finanzas.Proyecto Viatico</ObjDesc>
+    <ObjLink>finanzas.proyectoviatico.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>finanzas.Destino</ObjName>
+    <ObjDesc>finanzas.Destino</ObjDesc>
+    <ObjLink>finanzas.destino.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>finanzas.Procedencia</ObjName>
+    <ObjDesc>finanzas.Procedencia</ObjDesc>
+    <ObjLink>finanzas.procedencia.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>finanzas.Formato</ObjName>
+    <ObjDesc>finanzas.Formato</ObjDesc>
+    <ObjLink>finanzas.formato.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>finanzas.MovimientoCuenta</ObjName>
+    <ObjDesc>finanzas.Movimiento Cuenta</ObjDesc>
+    <ObjLink>finanzas.movimientocuenta.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>finanzas.FacturaSAT</ObjName>
+    <ObjDesc>finanzas.Factura SAT</ObjDesc>
+    <ObjLink>finanzas.facturasat.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>finanzas.ViaticoAdmin</ObjName>
+    <ObjDesc>finanzas.Viatico Admin</ObjDesc>
+    <ObjLink>finanzas.viaticoadmin.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Administracion.Calendario</ObjName>
+    <ObjDesc>Administracion.Calendario</ObjDesc>
+    <ObjLink>administracion.calendario.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Storage.ArchivoERP</ObjName>
+    <ObjDesc>Storage.Archivo ERP</ObjDesc>
+    <ObjLink>storage.archivoerp.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Storage.Documento</ObjName>
+    <ObjDesc>Storage.Documento</ObjDesc>
+    <ObjLink>storage.documento.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Storage.DocumentoPartner</ObjName>
+    <ObjDesc>Storage.Documento Partner</ObjDesc>
+    <ObjLink>storage.documentopartner.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Storage.DocumentoArchivo</ObjName>
+    <ObjDesc>Storage.Documento Archivo</ObjDesc>
+    <ObjLink>storage.documentoarchivo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.TipoPermiso</ObjName>
+    <ObjDesc>RecHum.Tipo Permiso</ObjDesc>
+    <ObjLink>rechum.tipopermiso.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.PermisoPaternidad</ObjName>
+    <ObjDesc>RecHum.Permiso Paternidad</ObjDesc>
+    <ObjLink>rechum.permisopaternidad.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.Permiso</ObjName>
+    <ObjDesc>RecHum.Permiso</ObjDesc>
+    <ObjLink>rechum.permiso.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.PermisoAusencia</ObjName>
+    <ObjDesc>RecHum.Permiso Ausencia</ObjDesc>
+    <ObjLink>rechum.permisoausencia.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.EntregaInformacion</ObjName>
+    <ObjDesc>RecHum.Entrega Informacion</ObjDesc>
+    <ObjLink>rechum.entregainformacion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.PermisoMaternidad</ObjName>
+    <ObjDesc>RecHum.Permiso Maternidad</ObjDesc>
+    <ObjLink>rechum.permisomaternidad.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.PersonalRequisicion</ObjName>
+    <ObjDesc>RecHum.Personal Requisicion</ObjDesc>
+    <ObjLink>rechum.personalrequisicion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.PersonaRequisitos</ObjName>
+    <ObjDesc>RecHum.Persona Requisitos</ObjDesc>
+    <ObjLink>rechum.personarequisitos.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.PersonalRequisitosTipo</ObjName>
+    <ObjDesc>RecHum.Personal Requisitos Tipo</ObjDesc>
+    <ObjLink>rechum.personalrequisitostipo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.Idioma</ObjName>
+    <ObjDesc>RecHum.Idioma</ObjDesc>
+    <ObjLink>rechum.idioma.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.PersonalReqDomIdioma</ObjName>
+    <ObjDesc>RecHum.Personal Req Dom Idioma</ObjDesc>
+    <ObjLink>rechum.personalreqdomidioma.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.PuestoActividades</ObjName>
+    <ObjDesc>RecHum.Puesto Actividades</ObjDesc>
+    <ObjLink>rechum.puestoactividades.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.PersonaRequisicionRequisitos</ObjName>
+    <ObjDesc>RecHum.Persona Requisicion Requisitos</ObjDesc>
+    <ObjLink>rechum.personarequisicionrequisitos.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.PersonalFalta</ObjName>
+    <ObjDesc>RecHum.Personal Falta</ObjDesc>
+    <ObjLink>rechum.personalfalta.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.PersonalDesempenio</ObjName>
+    <ObjDesc>RecHum.Personal Desempenio</ObjDesc>
+    <ObjLink>rechum.personaldesempenio.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.CompromisoDesempenio</ObjName>
+    <ObjDesc>RecHum.Compromiso Desempenio</ObjDesc>
+    <ObjLink>rechum.compromisodesempenio.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.Candidato</ObjName>
+    <ObjDesc>RecHum.Candidato</ObjDesc>
+    <ObjLink>rechum.candidato.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.Entrevista</ObjName>
+    <ObjDesc>RecHum.Entrevista</ObjDesc>
+    <ObjLink>rechum.entrevista.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.EntrevistaMatrizCriterio</ObjName>
+    <ObjDesc>RecHum.Entrevista Matriz Criterio</ObjDesc>
+    <ObjLink>rechum.entrevistamatrizcriterio.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.MatrizCriterioCalificacion</ObjName>
+    <ObjDesc>RecHum.Matriz Criterio Calificacion</ObjDesc>
+    <ObjLink>rechum.matrizcriteriocalificacion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.EntrevistaCriterio</ObjName>
+    <ObjDesc>RecHum.Entrevista Criterio</ObjDesc>
+    <ObjLink>rechum.entrevistacriterio.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.Capacitacion</ObjName>
+    <ObjDesc>RecHum.Capacitacion</ObjDesc>
+    <ObjLink>rechum.capacitacion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>partner.PartnerTipoEntity</ObjName>
+    <ObjDesc>partner.Partner Tipo Entity</ObjDesc>
+    <ObjLink>partner.partnertipoentity.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.CapacitacionPersonal</ObjName>
+    <ObjDesc>RecHum.Capacitacion Personal</ObjDesc>
+    <ObjLink>rechum.capacitacionpersonal.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Master.EntityIdentity</ObjName>
+    <ObjDesc>Master.Entity Identity</ObjDesc>
+    <ObjLink>master.entityidentity.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.Incapacidad</ObjName>
+    <ObjDesc>RecHum.Incapacidad</ObjDesc>
+    <ObjLink>rechum.incapacidad.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.IncrementoSalarial</ObjName>
+    <ObjDesc>RecHum.Incremento Salarial</ObjDesc>
+    <ObjLink>rechum.incrementosalarial.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.PrestamoPersonal</ObjName>
+    <ObjDesc>RecHum.Prestamo Personal</ObjDesc>
+    <ObjLink>rechum.prestamopersonal.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Activos.ActivoTipo</ObjName>
+    <ObjDesc>Activos.Activo Tipo</ObjDesc>
+    <ObjLink>activos.activotipo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Activos.Activo</ObjName>
+    <ObjDesc>Activos.Activo</ObjDesc>
+    <ObjLink>activos.activo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Activos.ActivoPersonal</ObjName>
+    <ObjDesc>Activos.Activo Personal</ObjDesc>
+    <ObjLink>activos.activopersonal.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Activos.PersonalActivo</ObjName>
+    <ObjDesc>Activos.Personal Activo</ObjDesc>
+    <ObjLink>activos.personalactivo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Activos.ActivoInventario</ObjName>
+    <ObjDesc>Activos.Activo Inventario</ObjDesc>
+    <ObjLink>activos.activoinventario.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Activos.PersonalActivosAsignados</ObjName>
+    <ObjDesc>Activos.Personal Activos Asignados</ObjDesc>
+    <ObjLink>activos.personalactivosasignados.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Activos.ActivoPersonalRecepcion</ObjName>
+    <ObjDesc>Activos.Activo Personal Recepcion</ObjDesc>
+    <ObjLink>activos.activopersonalrecepcion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoConvenio</ObjName>
+    <ObjDesc>SegCtrl.Contrato Convenio</ObjDesc>
+    <ObjLink>segctrl.contratoconvenio.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoIrregularidad</ObjName>
+    <ObjDesc>SegCtrl.Contrato Irregularidad</ObjDesc>
+    <ObjLink>segctrl.contratoirregularidad.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoAnticipo</ObjName>
+    <ObjDesc>SegCtrl.Contrato Anticipo</ObjDesc>
+    <ObjLink>segctrl.contratoanticipo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoAvancesInfo</ObjName>
+    <ObjDesc>SegCtrl.Contrato Avances Info</ObjDesc>
+    <ObjLink>segctrl.contratoavancesinfo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Activos.PersonalActivoRecepcion</ObjName>
+    <ObjDesc>Activos.Personal Activo Recepcion</ObjDesc>
+    <ObjLink>activos.personalactivorecepcion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Encuesta.Cuestionario</ObjName>
+    <ObjDesc>Encuesta.Cuestionario</ObjDesc>
+    <ObjLink>encuesta.cuestionario.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Encuesta.Pregunta</ObjName>
+    <ObjDesc>Encuesta.Pregunta</ObjDesc>
+    <ObjLink>encuesta.pregunta.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Encuesta.Respuesta</ObjName>
+    <ObjDesc>Encuesta.Respuesta</ObjDesc>
+    <ObjLink>encuesta.respuesta.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Encuesta.PreguntaCategoria</ObjName>
+    <ObjDesc>Encuesta.Pregunta Categoria</ObjDesc>
+    <ObjLink>encuesta.preguntacategoria.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Encuesta.PreguntaEscalaLineal</ObjName>
+    <ObjDesc>Encuesta.Pregunta Escala Lineal</ObjDesc>
+    <ObjLink>encuesta.preguntaescalalineal.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoEstimacion</ObjName>
+    <ObjDesc>SegCtrl.Contrato Estimacion</ObjDesc>
+    <ObjLink>segctrl.contratoestimacion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Minutas.Minuta</ObjName>
+    <ObjDesc>Minutas.Minuta</ObjDesc>
+    <ObjLink>minutas.minuta.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Minutas.MinutaPartner</ObjName>
+    <ObjDesc>Minutas.Minuta Partner</ObjDesc>
+    <ObjLink>minutas.minutapartner.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Minutas.MinutaComentario</ObjName>
+    <ObjDesc>Minutas.Minuta Comentario</ObjDesc>
+    <ObjLink>minutas.minutacomentario.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Minutas.MinutaOrden</ObjName>
+    <ObjDesc>Minutas.Minuta Orden</ObjDesc>
+    <ObjLink>minutas.minutaorden.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Master.Folio</ObjName>
+    <ObjDesc>Master.Folio</ObjDesc>
+    <ObjLink>master.folio.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Encuesta.PreguntaOpcionMultiple</ObjName>
+    <ObjDesc>Encuesta.Pregunta Opcion Multiple</ObjDesc>
+    <ObjLink>encuesta.preguntaopcionmultiple.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>OrganizacionTerritorial.Nacionalidad</ObjName>
+    <ObjDesc>OrganizacionTerritorial.Nacionalidad</ObjDesc>
+    <ObjLink>organizacionterritorial.nacionalidad.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Reco.Proveedor</ObjName>
+    <ObjDesc>Reco.Proveedor</ObjDesc>
+    <ObjLink>reco.proveedor.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Reco.ActaConstitutiva</ObjName>
+    <ObjDesc>Reco.Acta Constitutiva</ObjDesc>
+    <ObjLink>reco.actaconstitutiva.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoActividades</ObjName>
+    <ObjDesc>SegCtrl.Contrato Actividades</ObjDesc>
+    <ObjLink>segctrl.contratoactividades.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ActividadesEvidencias</ObjName>
+    <ObjDesc>SegCtrl.Actividades Evidencias</ObjDesc>
+    <ObjLink>segctrl.actividadesevidencias.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>ISO.Manual</ObjName>
+    <ObjDesc>ISO.Manual</ObjDesc>
+    <ObjLink>iso.manual.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>ISO.Norma</ObjName>
+    <ObjDesc>ISO.Norma</ObjDesc>
+    <ObjLink>iso.norma.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>ISO.ManualNorma</ObjName>
+    <ObjDesc>ISO.Manual Norma</ObjDesc>
+    <ObjLink>iso.manualnorma.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Reco.PartnerRECO</ObjName>
+    <ObjDesc>Reco.Partner RECO</ObjDesc>
+    <ObjLink>reco.partnerreco.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Reco.ProveedorPartnerRECO</ObjName>
+    <ObjDesc>Reco.Proveedor Partner RECO</ObjDesc>
+    <ObjLink>reco.proveedorpartnerreco.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Reco.DocumentoRECO</ObjName>
+    <ObjDesc>Reco.Documento RECO</ObjDesc>
+    <ObjLink>reco.documentoreco.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>ISO.ManualPunto</ObjName>
+    <ObjDesc>ISO.Manual Punto</ObjDesc>
+    <ObjLink>iso.manualpunto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Minutas.MinutaEvidencia</ObjName>
+    <ObjDesc>Minutas.Minuta Evidencia</ObjDesc>
+    <ObjLink>minutas.minutaevidencia.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Contabilidad.sua</ObjName>
+    <ObjDesc>Contabilidad.sua</ObjDesc>
+    <ObjLink>contabilidad.sua.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Contabilidad.imss</ObjName>
+    <ObjDesc>Contabilidad.imss</ObjDesc>
+    <ObjLink>contabilidad.imss.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.NominaPeriodo</ObjName>
+    <ObjDesc>RecHum.Nomina Periodo</ObjDesc>
+    <ObjLink>rechum.nominaperiodo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>ISO.PoliticaISO</ObjName>
+    <ObjDesc>ISO.Politica ISO</ObjDesc>
+    <ObjLink>iso.politicaiso.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.FormatosRH</ObjName>
+    <ObjDesc>RecHum.Formatos RH</ObjDesc>
+    <ObjLink>rechum.formatosrh.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.CategoriaDocumentoContrato</ObjName>
+    <ObjDesc>SegCtrl.Categoria Documento Contrato</ObjDesc>
+    <ObjLink>segctrl.categoriadocumentocontrato.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>finanzas.vwProyectoViaticoTipoComprobante</ObjName>
+    <ObjDesc>finanzas.vw Proyecto Viatico Tipo Comprobante</ObjDesc>
+    <ObjLink>finanzas.vwproyectoviaticotipocomprobante.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>WWPBaseObjects.WWP_UserExtended</ObjName>
+    <ObjDesc>WWPBaseObjects.Extended User from GAMUser</ObjDesc>
+    <ObjLink>wwpbaseobjects.wwp_userextended.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>WWPBaseObjects.WWP_Entity</ObjName>
+    <ObjDesc>WWPBaseObjects.WWP_Entity</ObjDesc>
+    <ObjLink>wwpbaseobjects.wwp_entity.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>WWPBaseObjects.Subscriptions.WWP_Subscription</ObjName>
+    <ObjDesc>WWPBaseObjects.Subscriptions.WWP_Subscription</ObjDesc>
+    <ObjLink>wwpbaseobjects.subscriptions.wwp_subscription.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>WWPBaseObjects.SMS.WWP_SMS</ObjName>
+    <ObjDesc>WWPBaseObjects.SMS.WWP_SMS</ObjDesc>
+    <ObjLink>wwpbaseobjects.sms.wwp_sms.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>WWPBaseObjects.Notifications.Web.WWP_WebNotification</ObjName>
+    <ObjDesc>WWPBaseObjects.Notifications.Web.WWP_Web Notification</ObjDesc>
+    <ObjLink>wwpbaseobjects.notifications.web.wwp_webnotification.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>WWPBaseObjects.Notifications.Web.WWP_WebClient</ObjName>
+    <ObjDesc>WWPBaseObjects.Notifications.Web.WWP_Web Client</ObjDesc>
+    <ObjLink>wwpbaseobjects.notifications.web.wwp_webclient.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>WWPBaseObjects.Notifications.Common.WWP_NotificationDefinition</ObjName>
+    <ObjDesc>WWPBaseObjects.Notifications.Common.Notification Definition</ObjDesc>
+    <ObjLink>wwpbaseobjects.notifications.common.wwp_notificationdefinition.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>WWPBaseObjects.Notifications.Common.WWP_Notification</ObjName>
+    <ObjDesc>WWPBaseObjects.Notifications.Common.Notification</ObjDesc>
+    <ObjLink>wwpbaseobjects.notifications.common.wwp_notification.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>WWPBaseObjects.Mail.WWP_MailTemplate</ObjName>
+    <ObjDesc>WWPBaseObjects.Mail.Mail Template</ObjDesc>
+    <ObjLink>wwpbaseobjects.mail.wwp_mailtemplate.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>WWPBaseObjects.Mail.WWP_Mail</ObjName>
+    <ObjDesc>WWPBaseObjects.Mail.Mail</ObjDesc>
+    <ObjLink>wwpbaseobjects.mail.wwp_mail.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ReporteActividad</ObjName>
+    <ObjDesc>SegCtrl.Reporte Actividad</ObjDesc>
+    <ObjLink>segctrl.reporteactividad.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ReporteContActividades</ObjName>
+    <ObjDesc>SegCtrl.Reporte Cont Actividades</ObjDesc>
+    <ObjLink>segctrl.reportecontactividades.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ReporteContActEv</ObjName>
+    <ObjDesc>SegCtrl.Se guarda la selección de las evidencias fotográficas de las actividades realizadas en una obra</ObjDesc>
+    <ObjLink>segctrl.reportecontactev.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.ExpedienteMedico</ObjName>
+    <ObjDesc>RecHum.Expediente Médico</ObjDesc>
+    <ObjLink>rechum.expedientemedico.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.ExpedienteMedicoEstudio</ObjName>
+    <ObjDesc>RecHum.Expediente Medico Estudio</ObjDesc>
+    <ObjLink>rechum.expedientemedicoestudio.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.ExpedienteMedicoEnfermedad</ObjName>
+    <ObjDesc>RecHum.Expediente Medico Enfermedad</ObjDesc>
+    <ObjLink>rechum.expedientemedicoenfermedad.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.ExpedienteMedicoCirugia</ObjName>
+    <ObjDesc>RecHum.Expediente Medico Cirugia</ObjDesc>
+    <ObjLink>rechum.expedientemedicocirugia.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.ExpedienteMedicoMedicina</ObjName>
+    <ObjDesc>RecHum.Expediente Medico Medicina</ObjDesc>
+    <ObjLink>rechum.expedientemedicomedicina.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.ExpedienteMedicoAlergia</ObjName>
+    <ObjDesc>RecHum.Expediente Medico Alergia</ObjDesc>
+    <ObjLink>rechum.expedientemedicoalergia.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.UnidadContratante</ObjName>
+    <ObjDesc>SegCtrl.Unidad Contratante</ObjDesc>
+    <ObjLink>segctrl.unidadcontratante.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoCumplimiento</ObjName>
+    <ObjDesc>SegCtrl.Contrato Cumplimiento</ObjDesc>
+    <ObjLink>segctrl.contratocumplimiento.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>RecHum.PersonalRotacion</ObjName>
+    <ObjDesc>RecHum.Personal Rotacion</ObjDesc>
+    <ObjLink>rechum.personalrotacion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>ISO.MapeoProceso</ObjName>
+    <ObjDesc>ISO.Mapeo Proceso</ObjDesc>
+    <ObjLink>iso.mapeoproceso.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>ISO.RiesgoEvolucion</ObjName>
+    <ObjDesc>ISO.Riesgo Evolucion</ObjDesc>
+    <ObjLink>iso.riesgoevolucion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>ISO.NivelRiesgo</ObjName>
+    <ObjDesc>ISO.Nivel Riesgo</ObjDesc>
+    <ObjLink>iso.nivelriesgo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>TI.Ticket</ObjName>
+    <ObjDesc>TI.Ticket</ObjDesc>
+    <ObjLink>ti.ticket.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>TI.TicketNivelTiempoRespuesta</ObjName>
+    <ObjDesc>TI.Ticket Nivel Tiempo Respuesta</ObjDesc>
+    <ObjLink>ti.ticketniveltiemporespuesta.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Storage.PivotBlob</ObjName>
+    <ObjDesc>Storage.Pivot Blob</ObjDesc>
+    <ObjLink>storage.pivotblob.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoPlano</ObjName>
+    <ObjDesc>SegCtrl.Contrato Plano</ObjDesc>
+    <ObjLink>segctrl.contratoplano.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Propuestas.Convocante</ObjName>
+    <ObjDesc>Propuestas.Convocante</ObjDesc>
+    <ObjLink>propuestas.convocante.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Propuestas.Convocatoria</ObjName>
+    <ObjDesc>Propuestas.Convocatoria</ObjDesc>
+    <ObjLink>propuestas.convocatoria.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Propuestas.Propuesta</ObjName>
+    <ObjDesc>Propuestas.Propuesta</ObjDesc>
+    <ObjLink>propuestas.propuesta.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Propuestas.Licitante</ObjName>
+    <ObjDesc>Propuestas.Licitante</ObjDesc>
+    <ObjLink>propuestas.licitante.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Storage.DocumentoCategoria</ObjName>
+    <ObjDesc>Storage.Documento Categoria</ObjDesc>
+    <ObjLink>storage.documentocategoria.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Propuestas.TipoContratacion</ObjName>
+    <ObjDesc>Propuestas.Tipo Contratacion</ObjDesc>
+    <ObjLink>propuestas.tipocontratacion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Propuestas.TipoContratacionDocumento</ObjName>
+    <ObjDesc>Propuestas.Tipo Contratacion Documento</ObjDesc>
+    <ObjLink>propuestas.tipocontrataciondocumento.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Propuestas.PropuestaDocumento</ObjName>
+    <ObjDesc>Propuestas.Propuesta Documento</ObjDesc>
+    <ObjLink>propuestas.propuestadocumento.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>partner.GradoAcademico</ObjName>
+    <ObjDesc>partner.Grado Academico</ObjDesc>
+    <ObjLink>partner.gradoacademico.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Administracion.TipoFiguraLegal</ObjName>
+    <ObjDesc>Administracion.Tipo Figura Legal</ObjDesc>
+    <ObjLink>administracion.tipofiguralegal.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Administracion.EmpresaFigurasLegales</ObjName>
+    <ObjDesc>Administracion.Empresa Figuras Legales</ObjDesc>
+    <ObjLink>administracion.empresafiguraslegales.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Storage.DocumentoEntity</ObjName>
+    <ObjDesc>Storage.Documento Entity</ObjDesc>
+    <ObjLink>storage.documentoentity.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoDocumento</ObjName>
+    <ObjDesc>SegCtrl.Contrato Documento</ObjDesc>
+    <ObjLink>segctrl.contratodocumento.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.Estimacion</ObjName>
+    <ObjDesc>SegCtrl.Estimacion</ObjDesc>
+    <ObjLink>segctrl.estimacion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.EstatusDocumento</ObjName>
+    <ObjDesc>SegCtrl.Estatus Documento</ObjDesc>
+    <ObjLink>segctrl.estatusdocumento.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoEstatusDocumento</ObjName>
+    <ObjDesc>SegCtrl.Contrato Estatus Documento</ObjDesc>
+    <ObjLink>segctrl.contratoestatusdocumento.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.Puente</ObjName>
+    <ObjDesc>SICT.Puente</ObjDesc>
+    <ObjLink>sict.puente.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.Tramo</ObjName>
+    <ObjDesc>SICT.Tramo</ObjDesc>
+    <ObjLink>sict.tramo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ProyectoSCT</ObjName>
+    <ObjDesc>SICT.Proyecto SCT</ObjDesc>
+    <ObjLink>sict.proyectosct.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ProyectoTramo</ObjName>
+    <ObjDesc>SICT.Proyecto Tramo</ObjDesc>
+    <ObjLink>sict.proyectotramo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ProyectoPuente</ObjName>
+    <ObjDesc>SICT.Proyecto Puente</ObjDesc>
+    <ObjLink>sict.proyectopuente.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.Carretera</ObjName>
+    <ObjDesc>SICT.Carretera</ObjDesc>
+    <ObjLink>sict.carretera.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ContratoProyecto</ObjName>
+    <ObjDesc>SICT.Contrato Proyecto</ObjDesc>
+    <ObjLink>sict.contratoproyecto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.Ruta</ObjName>
+    <ObjDesc>SICT.Ruta</ObjDesc>
+    <ObjLink>sict.ruta.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.Programa</ObjName>
+    <ObjDesc>SICT.Programa</ObjDesc>
+    <ObjLink>sict.programa.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.TipoTrabajo</ObjName>
+    <ObjDesc>SICT.Tipo Trabajo</ObjDesc>
+    <ObjLink>sict.tipotrabajo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ClasificacionTrabajo</ObjName>
+    <ObjDesc>SICT.Clasificacion Trabajo</ObjDesc>
+    <ObjLink>sict.clasificaciontrabajo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.FormaE7Proyecto</ObjName>
+    <ObjDesc>SICT.Forma E7 Proyecto</ObjDesc>
+    <ObjLink>sict.formae7proyecto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ProyectoOtro</ObjName>
+    <ObjDesc>SICT.Proyecto Otro</ObjDesc>
+    <ObjLink>sict.proyectootro.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ContratoEstatus</ObjName>
+    <ObjDesc>SICT.Contrato Estatus</ObjDesc>
+    <ObjLink>sict.contratoestatus.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ProyectoPrograma</ObjName>
+    <ObjDesc>SICT.Proyecto Programa</ObjDesc>
+    <ObjLink>sict.proyectoprograma.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoDocumentoEstimacion</ObjName>
+    <ObjDesc>SegCtrl.Contrato Documento Estimacion</ObjDesc>
+    <ObjLink>segctrl.contratodocumentoestimacion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.EspecificacionParticular</ObjName>
+    <ObjDesc>SegCtrl.Especificacion Particular</ObjDesc>
+    <ObjLink>segctrl.especificacionparticular.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.EstimacionEPDocumento</ObjName>
+    <ObjDesc>SegCtrl.Estimacion EPDocumento</ObjDesc>
+    <ObjLink>segctrl.estimacionepdocumento.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.AvanceSICT</ObjName>
+    <ObjDesc>SICT.Avance SICT</ObjDesc>
+    <ObjLink>sict.avancesict.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ContratoProyectoE7</ObjName>
+    <ObjDesc>SICT.Contrato Proyecto E7</ObjDesc>
+    <ObjLink>sict.contratoproyectoe7.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.Larguillo</ObjName>
+    <ObjDesc>SICT.Larguillo</ObjDesc>
+    <ObjLink>sict.larguillo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.TrabajoSICT</ObjName>
+    <ObjDesc>SICT.Trabajo SICT</ObjDesc>
+    <ObjLink>sict.trabajosict.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ProyectoSICTTrabajo</ObjName>
+    <ObjDesc>SICT.Proyecto SICTTrabajo</ObjDesc>
+    <ObjLink>sict.proyectosicttrabajo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ProyectoSICT</ObjName>
+    <ObjDesc>SICT.Proyecto SICT</ObjDesc>
+    <ObjLink>sict.proyectosict.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ContratoProyectoSICT</ObjName>
+    <ObjDesc>SICT.Contrato Proyecto SICT</ObjDesc>
+    <ObjLink>sict.contratoproyectosict.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ContratoE7</ObjName>
+    <ObjDesc>SICT.Contrato Forma E7</ObjDesc>
+    <ObjLink>sict.contratoe7.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.AvanceSICTNota</ObjName>
+    <ObjDesc>SICT.Avance SICTNota</ObjDesc>
+    <ObjLink>sict.avancesictnota.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.TipoProyectoSICT</ObjName>
+    <ObjDesc>SICT.Tipo Proyecto SICT</ObjDesc>
+    <ObjLink>sict.tipoproyectosict.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.Drenaje</ObjName>
+    <ObjDesc>SICT.Drenaje</ObjDesc>
+    <ObjLink>sict.drenaje.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ObraEstadoFisico</ObjName>
+    <ObjDesc>SICT.Obra Estado Fisico</ObjDesc>
+    <ObjLink>sict.obraestadofisico.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.TipoObraDrenaje</ObjName>
+    <ObjDesc>SICT.Tipo Obra Drenaje</ObjDesc>
+    <ObjLink>sict.tipoobradrenaje.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.TipoRed</ObjName>
+    <ObjDesc>SICT.Tipo Red</ObjDesc>
+    <ObjLink>sict.tipored.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.Generador</ObjName>
+    <ObjDesc>SICT.Generador</ObjDesc>
+    <ObjLink>sict.generador.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.MinutaTrabajo</ObjName>
+    <ObjDesc>SICT.Minuta Trabajo</ObjDesc>
+    <ObjLink>sict.minutatrabajo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ReporteFoto</ObjName>
+    <ObjDesc>SICT.Reporte Foto</ObjDesc>
+    <ObjLink>sict.reportefoto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.MinutaTrabajoFoto</ObjName>
+    <ObjDesc>SICT.Minuta Trabajo Foto</ObjDesc>
+    <ObjLink>sict.minutatrabajofoto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.DrenajeGaleria</ObjName>
+    <ObjDesc>SICT.Drenaje Galeria</ObjDesc>
+    <ObjLink>sict.drenajegaleria.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.MinutaParticipantes</ObjName>
+    <ObjDesc>SICT.Minuta Participantes</ObjDesc>
+    <ObjLink>sict.minutaparticipantes.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ContactoContrato</ObjName>
+    <ObjDesc>SICT.Contacto Contrato</ObjDesc>
+    <ObjLink>sict.contactocontrato.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ContratoContactos</ObjName>
+    <ObjDesc>SICT.Contrato Contactos</ObjDesc>
+    <ObjLink>sict.contratocontactos.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ContactoContratoTipo</ObjName>
+    <ObjDesc>SICT.Contacto Contrato Tipo</ObjDesc>
+    <ObjLink>sict.contactocontratotipo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ContratoExpediente</ObjName>
+    <ObjDesc>SICT.Contrato Expediente</ObjDesc>
+    <ObjLink>sict.contratoexpediente.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.MinutaTrabajoContacto</ObjName>
+    <ObjDesc>SICT.Minuta Trabajo Contacto</ObjDesc>
+    <ObjLink>sict.minutatrabajocontacto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.EPGenerada</ObjName>
+    <ObjDesc>SegCtrl.EPGenerada</ObjDesc>
+    <ObjLink>segctrl.epgenerada.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoTramo</ObjName>
+    <ObjDesc>SegCtrl.Contrato Tramo</ObjDesc>
+    <ObjLink>segctrl.contratotramo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.TramoSICT</ObjName>
+    <ObjDesc>SICT.Tramo SICT</ObjDesc>
+    <ObjLink>sict.tramosict.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.BacheInforme</ObjName>
+    <ObjDesc>SICT.Bache Informe</ObjDesc>
+    <ObjLink>sict.bacheinforme.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.BacheReportado</ObjName>
+    <ObjDesc>SICT.Bache Reportado</ObjDesc>
+    <ObjLink>sict.bachereportado.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.BacheValidador</ObjName>
+    <ObjDesc>SICT.Bache Validador</ObjDesc>
+    <ObjLink>sict.bachevalidador.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.Recorrido</ObjName>
+    <ObjDesc>SICT.Recorrido</ObjDesc>
+    <ObjLink>sict.recorrido.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.BachePlantillaXLS</ObjName>
+    <ObjDesc>SICT.Bache Plantilla XLS</ObjDesc>
+    <ObjLink>sict.bacheplantillaxls.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.BacheSD</ObjName>
+    <ObjDesc>SICT.Bache SD</ObjDesc>
+    <ObjLink>sict.bachesd.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.RecorridoSD</ObjName>
+    <ObjDesc>SICT.Recorrido SD</ObjDesc>
+    <ObjLink>sict.recorridosd.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.BacheAtendido</ObjName>
+    <ObjDesc>SICT.Bache Atendido</ObjDesc>
+    <ObjLink>sict.bacheatendido.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Mapa.PuntoGeolocalizado</ObjName>
+    <ObjDesc>Mapa.Punto Geolocalizado</ObjDesc>
+    <ObjLink>mapa.puntogeolocalizado.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.BacheXEmpresa</ObjName>
+    <ObjDesc>SICT.Bache XEmpresa</ObjDesc>
+    <ObjLink>sict.bachexempresa.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.BacheXMes</ObjName>
+    <ObjDesc>SICT.Bache XMes</ObjDesc>
+    <ObjLink>sict.bachexmes.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.Brigada</ObjName>
+    <ObjDesc>SICT.Brigada</ObjDesc>
+    <ObjLink>sict.brigada.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.BrigadaEvento</ObjName>
+    <ObjDesc>SICT.Brigada Evento</ObjDesc>
+    <ObjLink>sict.brigadaevento.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ReporteFotoProteccion</ObjName>
+    <ObjDesc>SICT.Reporte Foto Proteccion</ObjDesc>
+    <ObjLink>sict.reportefotoproteccion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.MinutaInformeFoto</ObjName>
+    <ObjDesc>SICT.Minuta Informe Foto</ObjDesc>
+    <ObjLink>sict.minutainformefoto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ContratoTramoGeneradores</ObjName>
+    <ObjDesc>SegCtrl.Contrato Tramo Generadores</ObjDesc>
+    <ObjLink>segctrl.contratotramogeneradores.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.GeneradoresTipoTrabajo</ObjName>
+    <ObjDesc>SICT.Generadores Tipo Trabajo</ObjDesc>
+    <ObjLink>sict.generadorestipotrabajo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ConceptosTramo</ObjName>
+    <ObjDesc>SICT.Conceptos Tramo</ObjDesc>
+    <ObjLink>sict.conceptostramo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.GeneradoresConceptosTramo</ObjName>
+    <ObjDesc>SICT.Generadores Conceptos Tramo</ObjDesc>
+    <ObjLink>sict.generadoresconceptostramo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.ConceptosFechaGeneradores</ObjName>
+    <ObjDesc>SegCtrl.Conceptos Fecha Generadores</ObjDesc>
+    <ObjLink>segctrl.conceptosfechageneradores.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.GeneradoresConceptosAuditoria</ObjName>
+    <ObjDesc>SICT.Generadores Conceptos Auditoria</ObjDesc>
+    <ObjLink>sict.generadoresconceptosauditoria.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.GeneradoresPartner</ObjName>
+    <ObjDesc>SegCtrl.Generadores Partner</ObjDesc>
+    <ObjLink>segctrl.generadorespartner.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.TipoRegistroGeneradoresPartner</ObjName>
+    <ObjDesc>SegCtrl.Tipo Registro Generadores Partner</ObjDesc>
+    <ObjLink>segctrl.tiporegistrogeneradorespartner.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.GeneradoresRegistro</ObjName>
+    <ObjDesc>SegCtrl.Generadores Registro</ObjDesc>
+    <ObjLink>segctrl.generadoresregistro.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.GenertadoresFechasTrabajo</ObjName>
+    <ObjDesc>SegCtrl.Genertadores Fechas Trabajo</ObjDesc>
+    <ObjLink>segctrl.genertadoresfechastrabajo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SegCtrl.AsignacionFechaGeneradores</ObjName>
+    <ObjDesc>SegCtrl.Asignacion Fecha Generadores</ObjDesc>
+    <ObjLink>segctrl.asignacionfechageneradores.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.GeneradoresTrabajoDatos</ObjName>
+    <ObjDesc>SICT.Generadores Trabajo Datos</ObjDesc>
+    <ObjLink>sict.generadorestrabajodatos.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>SICT.ReporteFotoGeneradores</ObjName>
+    <ObjDesc>SICT.Reporte Foto Generadores</ObjDesc>
+    <ObjLink>sict.reportefotogeneradores.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Test.WpTest</ObjName>
+    <ObjDesc>Test.Wp Test</ObjDesc>
+    <ObjLink>test.wptest.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Master.InitMasterProvider</ObjName>
+    <ObjDesc>Master.Init Master Provider</ObjDesc>
+    <ObjLink>master.initmasterprovider.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMHome</ObjName>
+    <ObjDesc>Hogar</ObjDesc>
+    <ObjLink>gamhome.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleLogin</ObjName>
+    <ObjDesc>Acceso al Sistema</ObjDesc>
+    <ObjLink>gamexamplelogin.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleRegisterUser</ObjName>
+    <ObjDesc>Registrar usuario</ObjDesc>
+    <ObjLink>gamexampleregisteruser.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleNotAuthorized</ObjName>
+    <ObjDesc>No Autorizado</ObjDesc>
+    <ObjLink>gamexamplenotauthorized.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleSSOLogin</ObjName>
+    <ObjDesc>Acceso Único</ObjDesc>
+    <ObjLink>gamexamplessologin.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Home</ObjName>
+    <ObjDesc>Inicio</ObjDesc>
+    <ObjLink>home.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Administracion.ListEmpresas</ObjName>
+    <ObjDesc>Administracion.Empresas</ObjDesc>
+    <ObjLink>administracion.listempresas.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Administracion.ListEmpresaDepto</ObjName>
+    <ObjDesc>Administracion.Departamentos</ObjDesc>
+    <ObjLink>administracion.listempresadepto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Administracion.ListProyecto</ObjName>
+    <ObjDesc>Administracion.Proyectos</ObjDesc>
+    <ObjLink>administracion.listproyecto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListPuesto</ObjName>
+    <ObjDesc>RecHum.Puestos</ObjDesc>
+    <ObjLink>rechum.listpuesto.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListNivel</ObjName>
+    <ObjDesc>RecHum.Niveles Educativos</ObjDesc>
+    <ObjLink>rechum.listnivel.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListProfesion</ObjName>
+    <ObjDesc>RecHum.Profesiones</ObjDesc>
+    <ObjLink>rechum.listprofesion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListTipoSangre</ObjName>
+    <ObjDesc>RecHum.Tipos de Sangre</ObjDesc>
+    <ObjLink>rechum.listtiposangre.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListTipoContrato</ObjName>
+    <ObjDesc>RecHum.Tipos de Contrato</ObjDesc>
+    <ObjLink>rechum.listtipocontrato.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListLicenciaConducir</ObjName>
+    <ObjDesc>RecHum. Tipo Licencia Conducir</ObjDesc>
+    <ObjLink>rechum.listlicenciaconducir.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListDiasVacaciones</ObjName>
+    <ObjDesc>RecHum. Dias Vacaciones</ObjDesc>
+    <ObjLink>rechum.listdiasvacaciones.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListDiaFestivo</ObjName>
+    <ObjDesc>RecHum. Dias Festivos</ObjDesc>
+    <ObjLink>rechum.listdiafestivo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListPersonal</ObjName>
+    <ObjDesc>RecHum. Personal</ObjDesc>
+    <ObjLink>rechum.listpersonal.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Storage.ListDirectorios</ObjName>
+    <ObjDesc>Storage. Directorio</ObjDesc>
+    <ObjLink>storage.listdirectorios.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.listvacaciones</ObjName>
+    <ObjDesc>RecHum. Vacaciones</ObjDesc>
+    <ObjLink>rechum.listvacaciones.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.wpFormatoVacaciones</ObjName>
+    <ObjDesc>RecHum.wp Formato Vacaciones</ObjDesc>
+    <ObjLink>rechum.wpformatovacaciones.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListEmpleadoNomina</ObjName>
+    <ObjDesc>RecHum. Personal Pago</ObjDesc>
+    <ObjLink>rechum.listempleadonomina.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.LstContrato</ObjName>
+    <ObjDesc>SegCtrl. Contrato</ObjDesc>
+    <ObjLink>segctrl.lstcontrato.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.wpInfSegCtrl</ObjName>
+    <ObjDesc>SegCtrl.wp Inf Seg Ctrl</ObjDesc>
+    <ObjLink>segctrl.wpinfsegctrl.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.LstTiposRegistro</ObjName>
+    <ObjDesc>SegCtrl. Tipo Registro</ObjDesc>
+    <ObjLink>segctrl.lsttiposregistro.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.LstFormaE7</ObjName>
+    <ObjDesc>SegCtrl. Forma E7</ObjDesc>
+    <ObjLink>segctrl.lstformae7.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Master.Login</ObjName>
+    <ObjDesc>Master.Login</ObjDesc>
+    <ObjLink>master.login.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Master.NoAutorizado</ObjName>
+    <ObjDesc>Master.No Autorizado</ObjDesc>
+    <ObjLink>master.noautorizado.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.LstTipoDocDin</ObjName>
+    <ObjDesc>SegCtrl. Tipo Doc Dinamico</ObjDesc>
+    <ObjLink>segctrl.lsttipodocdin.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Master.LstGamUsers</ObjName>
+    <ObjDesc>Master.Lst Gam Users</ObjDesc>
+    <ObjLink>master.lstgamusers.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>partner.LstPartnerTipo</ObjName>
+    <ObjDesc>partner. Partner Tipo</ObjDesc>
+    <ObjLink>partner.lstpartnertipo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.LstContratistas</ObjName>
+    <ObjDesc>SegCtrl. Contratista</ObjDesc>
+    <ObjLink>segctrl.lstcontratistas.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.LstContratoConfPart</ObjName>
+    <ObjDesc>SegCtrl. Contrato</ObjDesc>
+    <ObjLink>segctrl.lstcontratoconfpart.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Storage.EliminarArchivosFisicamenteWP</ObjName>
+    <ObjDesc>Storage.Eliminar Archivos Fisicamente WP</ObjDesc>
+    <ObjLink>storage.eliminararchivosfisicamentewp.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>partner.LstPartnerEntityCrudAuth</ObjName>
+    <ObjDesc>partner. Partner Entity Crud Auth</ObjDesc>
+    <ObjLink>partner.lstpartnerentitycrudauth.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Master.LstTelerikReport</ObjName>
+    <ObjDesc>Master. Telerik Report</ObjDesc>
+    <ObjLink>master.lsttelerikreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Task.LstUserTask</ObjName>
+    <ObjDesc>Task. User Task</ObjDesc>
+    <ObjLink>task.lstusertask.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Master.wpDeploy</ObjName>
+    <ObjDesc>Master.wp Deploy</ObjDesc>
+    <ObjLink>master.wpdeploy.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.LstOtrosContratos</ObjName>
+    <ObjDesc>SegCtrl. Contrato</ObjDesc>
+    <ObjLink>segctrl.lstotroscontratos.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Master.listconfiguracion</ObjName>
+    <ObjDesc>Master. Configuracion</ObjDesc>
+    <ObjLink>master.listconfiguracion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.wpInicioSegCtrl</ObjName>
+    <ObjDesc>SegCtrl.wp Inicio Seg Ctrl</ObjDesc>
+    <ObjLink>segctrl.wpiniciosegctrl.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>partner.LstCuenta</ObjName>
+    <ObjDesc>partner. Cuenta</ObjDesc>
+    <ObjLink>partner.lstcuenta.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Master.wpInicioConfiguracion</ObjName>
+    <ObjDesc>Master.Configuración</ObjDesc>
+    <ObjLink>master.wpinicioconfiguracion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Master.wpInicioGAM</ObjName>
+    <ObjDesc>Master.wp Inicio GAM</ObjDesc>
+    <ObjLink>master.wpiniciogam.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.listtipolicconducir</ObjName>
+    <ObjDesc>RecHum. Tipo Licencia Conducir</ObjDesc>
+    <ObjLink>rechum.listtipolicconducir.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Administracion.ListPagoViatico</ObjName>
+    <ObjDesc>Administracion. Proyecto Viatico</ObjDesc>
+    <ObjLink>administracion.listpagoviatico.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.LstMisVacaciones</ObjName>
+    <ObjDesc>MiEspacio.Listado de mis vacaciones</ObjDesc>
+    <ObjLink>miespacio.lstmisvacaciones.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.ListViatico</ObjName>
+    <ObjDesc>MiEspacio. Viatico</ObjDesc>
+    <ObjLink>miespacio.listviatico.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Storage.LstDocumento</ObjName>
+    <ObjDesc>Storage. Documento</ObjDesc>
+    <ObjLink>storage.lstdocumento.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Storage.LstDocumentoArchivo</ObjName>
+    <ObjDesc>Storage. Documento Archivo</ObjDesc>
+    <ObjLink>storage.lstdocumentoarchivo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.wpSegCtrlActualizaciones</ObjName>
+    <ObjDesc>SegCtrl.Actualizaciones</ObjDesc>
+    <ObjLink>segctrl.wpsegctrlactualizaciones.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>finanzas.wpsubirfacturasat</ObjName>
+    <ObjDesc>finanzas.Subir Metadata</ObjDesc>
+    <ObjLink>finanzas.wpsubirfacturasat.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>finanzas.listfacturassat</ObjName>
+    <ObjDesc>finanzas. Factura SAT</ObjDesc>
+    <ObjLink>finanzas.listfacturassat.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Master.wpImportCSV</ObjName>
+    <ObjDesc>Master.Importar CSV</ObjDesc>
+    <ObjLink>master.wpimportcsv.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.wpsubirrecibosnomina</ObjName>
+    <ObjDesc>RecHum.Subir Recibos de Nómina</ObjDesc>
+    <ObjLink>rechum.wpsubirrecibosnomina.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.RegistrarColaborador</ObjName>
+    <ObjDesc>RecHum.Register user</ObjDesc>
+    <ObjLink>rechum.registrarcolaborador.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListTipoPermiso</ObjName>
+    <ObjDesc>RecHum. Tipo Permiso</ObjDesc>
+    <ObjLink>rechum.listtipopermiso.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Master.wpGamImportExport</ObjName>
+    <ObjDesc>Master.Import Export Permission</ObjDesc>
+    <ObjLink>master.wpgamimportexport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.LstReqPersonal</ObjName>
+    <ObjDesc>MiEspacio.Listado de Requisición de Personal</ObjDesc>
+    <ObjLink>miespacio.lstreqpersonal.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.wpOrganigramaMiLugar</ObjName>
+    <ObjDesc>MiEspacio.Organigrama</ObjDesc>
+    <ObjLink>miespacio.wporganigramamilugar.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListReqPersonal</ObjName>
+    <ObjDesc>RecHum.Listado de Requisición de Personal</ObjDesc>
+    <ObjLink>rechum.listreqpersonal.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.LstFaltas</ObjName>
+    <ObjDesc>MiEspacio.Listado de Faltas</ObjDesc>
+    <ObjLink>miespacio.lstfaltas.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.LstRevisarFaltas</ObjName>
+    <ObjDesc>MiEspacio. Personal Falta</ObjDesc>
+    <ObjLink>miespacio.lstrevisarfaltas.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.wpMiPersonal</ObjName>
+    <ObjDesc>MiEspacio.Mi Personal</ObjDesc>
+    <ObjLink>miespacio.wpmipersonal.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.LstDesarrolloTalento</ObjName>
+    <ObjDesc>MiEspacio. Personal Desempenio</ObjDesc>
+    <ObjLink>miespacio.lstdesarrollotalento.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.LstEntrevistas</ObjName>
+    <ObjDesc>RecHum. Entrevista</ObjDesc>
+    <ObjLink>rechum.lstentrevistas.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListEntrevistaMatriz</ObjName>
+    <ObjDesc>RecHum.Listado de criterios para la matriz de las entrevistas</ObjDesc>
+    <ObjLink>rechum.listentrevistamatriz.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListCriterioEntrevista</ObjName>
+    <ObjDesc>RecHum. Entrevista Criterio</ObjDesc>
+    <ObjLink>rechum.listcriterioentrevista.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>partner.ListPartner</ObjName>
+    <ObjDesc>partner. Partner</ObjDesc>
+    <ObjLink>partner.listpartner.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.LstCapacitacion</ObjName>
+    <ObjDesc>RecHum. Capacitacion</ObjDesc>
+    <ObjLink>rechum.lstcapacitacion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.wpInduccionVideo</ObjName>
+    <ObjDesc>MiEspacio.Video de Inducción</ObjDesc>
+    <ObjLink>miespacio.wpinduccionvideo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.wpInfRH</ObjName>
+    <ObjDesc>RecHum.Informes</ObjDesc>
+    <ObjLink>rechum.wpinfrh.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.LstIncapacidad</ObjName>
+    <ObjDesc>MiEspacio. Incapacidad</ObjDesc>
+    <ObjLink>miespacio.lstincapacidad.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.LstIncrementos</ObjName>
+    <ObjDesc>RecHum. Incremento Salarial</ObjDesc>
+    <ObjLink>rechum.lstincrementos.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.LstPrestamo</ObjName>
+    <ObjDesc>MiEspacio. Prestamo Personal</ObjDesc>
+    <ObjLink>miespacio.lstprestamo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.ListPrestamos</ObjName>
+    <ObjDesc>RecHum. Prestamo Personal</ObjDesc>
+    <ObjLink>rechum.listprestamos.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Activos.LstActivoTipo</ObjName>
+    <ObjDesc>Activos. Activo Tipo</ObjDesc>
+    <ObjLink>activos.lstactivotipo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Activos.LstActivo</ObjName>
+    <ObjDesc>Activos. Activo</ObjDesc>
+    <ObjLink>activos.lstactivo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Activos.LstActivoPersonal</ObjName>
+    <ObjDesc>Activos. Activo Personal</ObjDesc>
+    <ObjLink>activos.lstactivopersonal.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Activos.LstInventario</ObjName>
+    <ObjDesc>Activos. Activo Inventario</ObjDesc>
+    <ObjLink>activos.lstinventario.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Activos.LstPersonalActivo</ObjName>
+    <ObjDesc>Activos. Personal Activos Asignados</ObjDesc>
+    <ObjLink>activos.lstpersonalactivo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Encuesta.LstCuestionario</ObjName>
+    <ObjDesc>Encuesta. Cuestionario</ObjDesc>
+    <ObjLink>encuesta.lstcuestionario.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Encuesta.LstPreguntaCategoria</ObjName>
+    <ObjDesc>Encuesta. Pregunta Categoria</ObjDesc>
+    <ObjLink>encuesta.lstpreguntacategoria.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Encuesta.ListCuestionario</ObjName>
+    <ObjDesc>Encuesta. Cuestionario</ObjDesc>
+    <ObjLink>encuesta.listcuestionario.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Minutas.LstMinutas</ObjName>
+    <ObjDesc>Minutas. Minuta</ObjDesc>
+    <ObjLink>minutas.lstminutas.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Reco.LstProveedor</ObjName>
+    <ObjDesc>Reco. Proveedor</ObjDesc>
+    <ObjLink>reco.lstproveedor.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Reco.LoginReco</ObjName>
+    <ObjDesc>Reco.Login</ObjDesc>
+    <ObjLink>reco.loginreco.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Reco.RegistrarProveedor</ObjName>
+    <ObjDesc>Reco.Register user</ObjDesc>
+    <ObjLink>reco.registrarproveedor.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>ISO.LstManual</ObjName>
+    <ObjDesc>ISO. Manual</ObjDesc>
+    <ObjLink>iso.lstmanual.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>ISO.LstNorma</ObjName>
+    <ObjDesc>ISO. Norma</ObjDesc>
+    <ObjLink>iso.lstnorma.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Reco.wpDatosContratista</ObjName>
+    <ObjDesc>Reco.Mis datos</ObjDesc>
+    <ObjLink>reco.wpdatoscontratista.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Reco.HomeReco</ObjName>
+    <ObjDesc>Reco.Inicio</ObjDesc>
+    <ObjLink>reco.homereco.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.wpHomeSegCtrl</ObjName>
+    <ObjDesc>SegCtrl.Inicio</ObjDesc>
+    <ObjLink>segctrl.wphomesegctrl.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Reco.LstDocumentoRECO</ObjName>
+    <ObjDesc>Reco. Documento RECO</ObjDesc>
+    <ObjLink>reco.lstdocumentoreco.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.LstRevisionPermisos</ObjName>
+    <ObjDesc>MiEspacio. Permiso</ObjDesc>
+    <ObjLink>miespacio.lstrevisionpermisos.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Contabilidad.LstSUA</ObjName>
+    <ObjDesc>Contabilidad. sua</ObjDesc>
+    <ObjLink>contabilidad.lstsua.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Contabilidad.LstImss</ObjName>
+    <ObjDesc>Contabilidad. imss</ObjDesc>
+    <ObjLink>contabilidad.lstimss.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>ISO.LstPolitica</ObjName>
+    <ObjDesc>ISO. Politica ISO</ObjDesc>
+    <ObjLink>iso.lstpolitica.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.LstFormatosRH</ObjName>
+    <ObjDesc>RecHum. Formatos RH</ObjDesc>
+    <ObjLink>rechum.lstformatosrh.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.ListFormatoRH</ObjName>
+    <ObjDesc>MiEspacio. Formatos RH</ObjDesc>
+    <ObjLink>miespacio.listformatorh.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Direccion.wpTableroAlfa</ObjName>
+    <ObjDesc>Direccion.Tablero</ObjDesc>
+    <ObjLink>direccion.wptableroalfa.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WorkWithPlus.WWP_ParameterWW</ObjName>
+    <ObjDesc>WorkWithPlus.Parámetro</ObjDesc>
+    <ObjLink>workwithplus.wwp_parameterww.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWPBaseObjects.Subscriptions.WWP_SubscriptionsSettings</ObjName>
+    <ObjDesc>WWPBaseObjects.Subscriptions.Administrar mis subscripciones</ObjDesc>
+    <ObjLink>wwpbaseobjects.subscriptions.wwp_subscriptionssettings.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWPBaseObjects.Notifications.Common.WWP_VisualizeAllNotifications</ObjName>
+    <ObjDesc>WWPBaseObjects.Notifications.Common.Visualizar todas las notificaciones</ObjDesc>
+    <ObjLink>wwpbaseobjects.notifications.common.wwp_visualizeallnotifications.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleWWRoles</ObjName>
+    <ObjDesc>Roles</ObjDesc>
+    <ObjLink>gamexamplewwroles.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleWWUsers</ObjName>
+    <ObjDesc>Usuarios</ObjDesc>
+    <ObjLink>gamexamplewwusers.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleWWSecurityPolicies</ObjName>
+    <ObjDesc>Políticas de Seguridad</ObjDesc>
+    <ObjLink>gamexamplewwsecuritypolicies.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleWWRepositories</ObjName>
+    <ObjDesc>Repositorios</ObjDesc>
+    <ObjLink>gamexamplewwrepositories.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleWWAuthTypes</ObjName>
+    <ObjDesc>Tipos de autenticación</ObjDesc>
+    <ObjLink>gamexamplewwauthtypes.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleWWConnections</ObjName>
+    <ObjDesc>Conexiones:</ObjDesc>
+    <ObjLink>gamexamplewwconnections.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleChangeYourPassword</ObjName>
+    <ObjDesc>Cambiar mi contraseña</ObjDesc>
+    <ObjLink>gamexamplechangeyourpassword.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleWWApplications</ObjName>
+    <ObjDesc>Aplicaciones</ObjDesc>
+    <ObjLink>gamexamplewwapplications.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleChangeRepository</ObjName>
+    <ObjDesc>Cambiar repositorio</ObjDesc>
+    <ObjLink>gamexamplechangerepository.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleWWEventSubscriptions</ObjName>
+    <ObjDesc>Suscripciones de Evento</ObjDesc>
+    <ObjLink>gamexamplewweventsubscriptions.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleDashboard</ObjName>
+    <ObjDesc>Panel Principal</ObjDesc>
+    <ObjLink>gamexampledashboard.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleGAMConfiguration</ObjName>
+    <ObjDesc>Configuración de GAM</ObjDesc>
+    <ObjLink>gamexamplegamconfiguration.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleAuthenticatorDisable</ObjName>
+    <ObjDesc>Deshabilitar Authenticator</ObjDesc>
+    <ObjLink>gamexampleauthenticatordisable.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleAuthenticatorEnable</ObjName>
+    <ObjDesc>Habilitar Authenticator</ObjDesc>
+    <ObjLink>gamexampleauthenticatorenable.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Master.LstRoles</ObjName>
+    <ObjDesc>Master.Roles</ObjDesc>
+    <ObjLink>master.lstroles.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Master.wpAdminNotificaciones</ObjName>
+    <ObjDesc>Master.Administrar Notificaciones</ObjDesc>
+    <ObjLink>master.wpadminnotificaciones.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.wpInfActPeriodo</ObjName>
+    <ObjDesc>SegCtrl.Informe de Actividades por Periodo</ObjDesc>
+    <ObjLink>segctrl.wpinfactperiodo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.LstContratoConfAct</ObjName>
+    <ObjDesc>SegCtrl. Contrato</ObjDesc>
+    <ObjLink>segctrl.lstcontratoconfact.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.wpExpMedico</ObjName>
+    <ObjDesc>MiEspacio.wp Exp Medico</ObjDesc>
+    <ObjLink>miespacio.wpexpmedico.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.LstUnidadContratante</ObjName>
+    <ObjDesc>SegCtrl. Unidad Contratante</ObjDesc>
+    <ObjLink>segctrl.lstunidadcontratante.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>RecHum.wpDashBoardRH</ObjName>
+    <ObjDesc>RecHum.wp Dash Board RH</ObjDesc>
+    <ObjLink>rechum.wpdashboardrh.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>ISO.LstMapeoProceso</ObjName>
+    <ObjDesc>ISO. Mapeo Proceso</ObjDesc>
+    <ObjLink>iso.lstmapeoproceso.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Direccion.LstMapeosProceso</ObjName>
+    <ObjDesc>Direccion. Mapeo Proceso</ObjDesc>
+    <ObjLink>direccion.lstmapeosproceso.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>ISO.LstRiesgoEvolucion</ObjName>
+    <ObjDesc>ISO. Riesgo Evolucion</ObjDesc>
+    <ObjLink>iso.lstriesgoevolucion.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>MiEspacio.LstTicketUsuario</ObjName>
+    <ObjDesc>MiEspacio. Ticket</ObjDesc>
+    <ObjLink>miespacio.lstticketusuario.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>TI.LstTicket</ObjName>
+    <ObjDesc>TI. Ticket</ObjDesc>
+    <ObjLink>ti.lstticket.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>TI.wpDashBoardTI</ObjName>
+    <ObjDesc>TI.wp Dash Board TI</ObjDesc>
+    <ObjLink>ti.wpdashboardti.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.LstConvenio</ObjName>
+    <ObjDesc>SegCtrl.Lst Convenio</ObjDesc>
+    <ObjLink>segctrl.lstconvenio.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.wpHomeSegCtrlInfEje</ObjName>
+    <ObjDesc>SegCtrl.wp Home Seg Ctrl Inf Eje</ObjDesc>
+    <ObjLink>segctrl.wphomesegctrlinfeje.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleGAMGeneral</ObjName>
+    <ObjDesc>General</ObjDesc>
+    <ObjLink>gamexamplegamgeneral.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>GAMExampleWWSessions</ObjName>
+    <ObjDesc>Sesiones</ObjDesc>
+    <ObjLink>gamexamplewwsessions.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Propuestas.LstConvocatoria</ObjName>
+    <ObjDesc>Propuestas. Convocatoria</ObjDesc>
+    <ObjLink>propuestas.lstconvocatoria.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Propuestas.wpConfigDocPropuestas</ObjName>
+    <ObjDesc>Propuestas.Configuración de Documentos</ObjDesc>
+    <ObjLink>propuestas.wpconfigdocpropuestas.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Administracion.LstTipoFiguraLegal</ObjName>
+    <ObjDesc>Administracion. Tipo Figura Legal</ObjDesc>
+    <ObjLink>administracion.lsttipofiguralegal.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.wpMainDash</ObjName>
+    <ObjDesc>SICT. Programa</ObjDesc>
+    <ObjLink>sict.wpmaindash.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.wpEstimaciones</ObjName>
+    <ObjDesc>SegCtrl.Estimaciones</ObjDesc>
+    <ObjLink>segctrl.wpestimaciones.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.LstEstimacionEPDocumento</ObjName>
+    <ObjDesc>SegCtrl. Estimacion EPDocumento</ObjDesc>
+    <ObjLink>segctrl.lstestimacionepdocumento.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.LstTrabajo</ObjName>
+    <ObjDesc>SICT. Trabajo SICT</ObjDesc>
+    <ObjLink>sict.lsttrabajo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.LstTipoRed</ObjName>
+    <ObjDesc>SICT. Tipo Red</ObjDesc>
+    <ObjLink>sict.lsttipored.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.LstTipoObraDrenaje</ObjName>
+    <ObjDesc>SICT. Tipo Obra Drenaje</ObjDesc>
+    <ObjLink>sict.lsttipoobradrenaje.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.LstObraEstadoFisico</ObjName>
+    <ObjDesc>SICT. Obra Estado Fisico</ObjDesc>
+    <ObjLink>sict.lstobraestadofisico.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.LstContactoContrato</ObjName>
+    <ObjDesc>SICT. Contacto Contrato</ObjDesc>
+    <ObjLink>sict.lstcontactocontrato.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.LstContactoContratoTipo</ObjName>
+    <ObjDesc>SICT. Contacto Contrato Tipo</ObjDesc>
+    <ObjLink>sict.lstcontactocontratotipo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.LstBacheInforme</ObjName>
+    <ObjDesc>SICT. Bache Informe</ObjDesc>
+    <ObjLink>sict.lstbacheinforme.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.LstBacheValidador</ObjName>
+    <ObjDesc>SICT. Bache Validador</ObjDesc>
+    <ObjLink>sict.lstbachevalidador.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.wpAsistenteInfBache</ObjName>
+    <ObjDesc>SICT.Crear Informe</ObjDesc>
+    <ObjLink>sict.wpasistenteinfbache.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.LstRecorrido</ObjName>
+    <ObjDesc>SICT. Recorrido</ObjDesc>
+    <ObjLink>sict.lstrecorrido.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.LstBachePlantillaXls</ObjName>
+    <ObjDesc>SICT. Bache Plantilla XLS</ObjDesc>
+    <ObjLink>sict.lstbacheplantillaxls.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.wpBacheoReporte</ObjName>
+    <ObjDesc>SegCtrl.wp Bacheo Reporte</ObjDesc>
+    <ObjLink>segctrl.wpbacheoreporte.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.BacheWW</ObjName>
+    <ObjDesc>SICT. Bache</ObjDesc>
+    <ObjLink>sict.bacheww.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.wpBacheReporteDiario</ObjName>
+    <ObjDesc>SegCtrl.wp Bache Reporte Diario</ObjDesc>
+    <ObjLink>segctrl.wpbachereportediario.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.wpMapaBaches</ObjName>
+    <ObjDesc>SICT.Mapa</ObjDesc>
+    <ObjLink>sict.wpmapabaches.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SICT.wpKPIBacheo</ObjName>
+    <ObjDesc>SICT.Dashboard Bacheo</ObjDesc>
+    <ObjLink>sict.wpkpibacheo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.lstContratosGeneradores</ObjName>
+    <ObjDesc>SegCtrl. Contrato</ObjDesc>
+    <ObjLink>segctrl.lstcontratosgeneradores.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.lstContratoTramo</ObjName>
+    <ObjDesc>SegCtrl. Contrato Tramo Generadores</ObjDesc>
+    <ObjLink>segctrl.lstcontratotramo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.lstTramoConf</ObjName>
+    <ObjDesc>SegCtrl. Contrato Tramo Generadores</ObjDesc>
+    <ObjLink>segctrl.lsttramoconf.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.wpHomeInformes</ObjName>
+    <ObjDesc>SegCtrl.wp Home Informes</ObjDesc>
+    <ObjLink>segctrl.wphomeinformes.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.wpReporte</ObjName>
+    <ObjDesc>SegCtrl.wp Reporte</ObjDesc>
+    <ObjLink>segctrl.wpreporte.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>WWPBaseObjects.WWP_DownloadReport</ObjName>
+    <ObjDesc>WWPBaseObjects.Download Report</ObjDesc>
+    <ObjLink>wwpbaseobjects.wwp_downloadreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Administracion.ListEmpresasExportReport</ObjName>
+    <ObjDesc>Administracion.List Empresas Export Report</ObjDesc>
+    <ObjLink>administracion.listempresasexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Administracion.ListEmpresaDeptoExportReport</ObjName>
+    <ObjDesc>Administracion.List Empresa Depto Export Report</ObjDesc>
+    <ObjLink>administracion.listempresadeptoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Administracion.ListProyectoExportReport</ObjName>
+    <ObjDesc>Administracion.List Proyecto Export Report</ObjDesc>
+    <ObjLink>administracion.listproyectoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.ListPuestoExportReport</ObjName>
+    <ObjDesc>RecHum.List Puesto Export Report</ObjDesc>
+    <ObjLink>rechum.listpuestoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.ListNivelExportReport</ObjName>
+    <ObjDesc>RecHum.List Nivel Export Report</ObjDesc>
+    <ObjLink>rechum.listnivelexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.ListProfesionExportReport</ObjName>
+    <ObjDesc>RecHum.List Profesion Export Report</ObjDesc>
+    <ObjLink>rechum.listprofesionexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.ListTipoSangreExportReport</ObjName>
+    <ObjDesc>RecHum.List Tipo Sangre Export Report</ObjDesc>
+    <ObjLink>rechum.listtiposangreexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.ListTipoContratoExportReport</ObjName>
+    <ObjDesc>RecHum.List Tipo Contrato Export Report</ObjDesc>
+    <ObjLink>rechum.listtipocontratoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.ListDiasVacacionesExportReport</ObjName>
+    <ObjDesc>RecHum.List Dias Vacaciones Export Report</ObjDesc>
+    <ObjLink>rechum.listdiasvacacionesexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.ListDiaFestivoExportReport</ObjName>
+    <ObjDesc>RecHum.List Dia Festivo Export Report</ObjDesc>
+    <ObjLink>rechum.listdiafestivoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.ListLicenciaConducirExportReport</ObjName>
+    <ObjDesc>RecHum.List Licencia Conducir Export Report</ObjDesc>
+    <ObjLink>rechum.listlicenciaconducirexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.ListPersonalExportReport</ObjName>
+    <ObjDesc>RecHum.List Personal Export Report</ObjDesc>
+    <ObjLink>rechum.listpersonalexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Administracion.listpersonaproyectoExportReport</ObjName>
+    <ObjDesc>Administracion.listpersonaproyecto Export Report</ObjDesc>
+    <ObjLink>administracion.listpersonaproyectoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Storage.ListDirectoriosExportReport</ObjName>
+    <ObjDesc>Storage.List Directorios Export Report</ObjDesc>
+    <ObjLink>storage.listdirectoriosexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Storage.ListEntityDirectorioExportReport</ObjName>
+    <ObjDesc>Storage.List Entity Directorio Export Report</ObjDesc>
+    <ObjLink>storage.listentitydirectorioexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.listvacacionesExportReport</ObjName>
+    <ObjDesc>RecHum.listvacaciones Export Report</ObjDesc>
+    <ObjLink>rechum.listvacacionesexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstFormaE6ExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Forma E6 Export Report</ObjDesc>
+    <ObjLink>segctrl.lstformae6exportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstContratoExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Contrato Export Report</ObjDesc>
+    <ObjLink>segctrl.lstcontratoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstFormaE6EvidenciaExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Forma E6 Evidencia Export Report</ObjDesc>
+    <ObjLink>segctrl.lstformae6evidenciaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.wcCargaAvancesV001ExportReport</ObjName>
+    <ObjDesc>SegCtrl.wc Carga Avances V001 Export Report</ObjDesc>
+    <ObjLink>segctrl.wccargaavancesv001exportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstTiposRegistroExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Tipos Registro Export Report</ObjDesc>
+    <ObjLink>segctrl.lsttiposregistroexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstTipoDocDinExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Tipo Doc Din Export Report</ObjDesc>
+    <ObjLink>segctrl.lsttipodocdinexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstDocDinamicoExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Doc Dinamico Export Report</ObjDesc>
+    <ObjLink>segctrl.lstdocdinamicoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.wcE6FechasConRegistroExportReport</ObjName>
+    <ObjDesc>SegCtrl.wc E6 Fechas Con Registro Export Report</ObjDesc>
+    <ObjLink>segctrl.wce6fechasconregistroexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>partner.LstPartnerTipoExportReport</ObjName>
+    <ObjDesc>partner.Lst Partner Tipo Export Report</ObjDesc>
+    <ObjLink>partner.lstpartnertipoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstContratistasExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Contratistas Export Report</ObjDesc>
+    <ObjLink>segctrl.lstcontratistasexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstContratoPartnerExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Contrato Partner Export Report</ObjDesc>
+    <ObjLink>segctrl.lstcontratopartnerexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstContratoConfPartExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Contrato Conf Part Export Report</ObjDesc>
+    <ObjLink>segctrl.lstcontratoconfpartexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstContratoV003ExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Contrato V003 Export Report</ObjDesc>
+    <ObjLink>segctrl.lstcontratov003exportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstTipoRegPartnerExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Tipo Reg Partner Export Report</ObjDesc>
+    <ObjLink>segctrl.lsttiporegpartnerexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstTipoRegE6ExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Tipo Reg E6 Export Report</ObjDesc>
+    <ObjLink>segctrl.lsttiporege6exportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>partner.LstPartnerEntityCrudAuthExportReport</ObjName>
+    <ObjDesc>partner.Lst Partner Entity Crud Auth Export Report</ObjDesc>
+    <ObjLink>partner.lstpartnerentitycrudauthexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Master.LstTelerikReportExportReport</ObjName>
+    <ObjDesc>Master.Lst Telerik Report Export Report</ObjDesc>
+    <ObjLink>master.lsttelerikreportexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Task.LstUserTaskExportReport</ObjName>
+    <ObjDesc>Task.Lst User Task Export Report</ObjDesc>
+    <ObjLink>task.lstusertaskexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstFormaE7ExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Forma E7 Export Report</ObjDesc>
+    <ObjLink>segctrl.lstformae7exportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Master.InitMasterProviderExportReport</ObjName>
+    <ObjDesc>Master.Init Master Provider Export Report</ObjDesc>
+    <ObjLink>master.initmasterproviderexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Task.wcLstEntityTaskExportReport</ObjName>
+    <ObjDesc>Task.wc Lst Entity Task Export Report</ObjDesc>
+    <ObjLink>task.wclstentitytaskexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstOtrosContratosExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Otros Contratos Export Report</ObjDesc>
+    <ObjLink>segctrl.lstotroscontratosexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Master.listconfiguracionExportReport</ObjName>
+    <ObjDesc>Master.listconfiguracion Export Report</ObjDesc>
+    <ObjLink>master.listconfiguracionexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.wcLstConsultaDocDinV001ExportReport</ObjName>
+    <ObjDesc>SegCtrl.wc Lst Consulta Doc Din V001 Export Report</ObjDesc>
+    <ObjLink>segctrl.wclstconsultadocdinv001exportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>partner.LstCuentaExportReport</ObjName>
+    <ObjDesc>partner.Lst Cuenta Export Report</ObjDesc>
+    <ObjLink>partner.lstcuentaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.listtipolicconducirExportReport</ObjName>
+    <ObjDesc>RecHum.listtipolicconducir Export Report</ObjDesc>
+    <ObjLink>rechum.listtipolicconducirexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Administracion.ListPagoViaticoExportReport</ObjName>
+    <ObjDesc>Administracion.List Pago Viatico Export Report</ObjDesc>
+    <ObjLink>administracion.listpagoviaticoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Administracion.ListPersonalViaticoExportReport</ObjName>
+    <ObjDesc>Administracion.List Personal Viatico Export Report</ObjDesc>
+    <ObjLink>administracion.listpersonalviaticoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Storage.wcLstEntityArchivosV001ExportReport</ObjName>
+    <ObjDesc>Storage.wc Lst Entity Archivos V001 Export Report</ObjDesc>
+    <ObjLink>storage.wclstentityarchivosv001exportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.ListViaticoExportReport</ObjName>
+    <ObjDesc>MiEspacio.List Viatico Export Report</ObjDesc>
+    <ObjLink>miespacio.listviaticoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.ListViaticoPagadoExportReport</ObjName>
+    <ObjDesc>MiEspacio.List Viatico Pagado Export Report</ObjDesc>
+    <ObjLink>miespacio.listviaticopagadoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.listrecibosempleadoExportReport</ObjName>
+    <ObjDesc>MiEspacio.listrecibosempleado Export Report</ObjDesc>
+    <ObjLink>miespacio.listrecibosempleadoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Storage.LstDocumentoExportReport</ObjName>
+    <ObjDesc>Storage.Lst Documento Export Report</ObjDesc>
+    <ObjLink>storage.lstdocumentoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Storage.LstDocumentoArchivoExportReport</ObjName>
+    <ObjDesc>Storage.Lst Documento Archivo Export Report</ObjDesc>
+    <ObjLink>storage.lstdocumentoarchivoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>finanzas.listfacturassatExportReport</ObjName>
+    <ObjDesc>finanzas.listfacturassat Export Report</ObjDesc>
+    <ObjLink>finanzas.listfacturassatexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Administracion.ListAdminViaticoExportReport</ObjName>
+    <ObjDesc>Administracion.List Admin Viatico Export Report</ObjDesc>
+    <ObjLink>administracion.listadminviaticoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.ListTipoPermisoExportReport</ObjName>
+    <ObjDesc>RecHum.List Tipo Permiso Export Report</ObjDesc>
+    <ObjLink>rechum.listtipopermisoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.wcLstPermisoExportReport</ObjName>
+    <ObjDesc>RecHum.wc Lst Permiso Export Report</ObjDesc>
+    <ObjLink>rechum.wclstpermisoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.wcLstEntregaInformacionExportReport</ObjName>
+    <ObjDesc>RecHum.wc Lst Entrega Informacion Export Report</ObjDesc>
+    <ObjLink>rechum.wclstentregainformacionexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.wcLstReqPersonalExportReport</ObjName>
+    <ObjDesc>RecHum.wc Lst Req Personal Export Report</ObjDesc>
+    <ObjLink>rechum.wclstreqpersonalexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.wcListPersonaRequisitosExportReport</ObjName>
+    <ObjDesc>RecHum.wc List Persona Requisitos Export Report</ObjDesc>
+    <ObjLink>rechum.wclistpersonarequisitosexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.wcListIdiomaExportReport</ObjName>
+    <ObjDesc>RecHum.wc List Idioma Export Report</ObjDesc>
+    <ObjLink>rechum.wclistidiomaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.wcLstPuestoActividadesExportReport</ObjName>
+    <ObjDesc>RecHum.wc Lst Puesto Actividades Export Report</ObjDesc>
+    <ObjLink>rechum.wclstpuestoactividadesexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.wcLstFaltasExportReport</ObjName>
+    <ObjDesc>RecHum.wc Lst Faltas Export Report</ObjDesc>
+    <ObjLink>rechum.wclstfaltasexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.LstRevisarFaltasExportReport</ObjName>
+    <ObjDesc>MiEspacio.Lst Revisar Faltas Export Report</ObjDesc>
+    <ObjLink>miespacio.lstrevisarfaltasexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.LstDesarrolloTalentoExportReport</ObjName>
+    <ObjDesc>MiEspacio.Lst Desarrollo Talento Export Report</ObjDesc>
+    <ObjLink>miespacio.lstdesarrollotalentoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.LstCompromisoTalentoExportReport</ObjName>
+    <ObjDesc>RecHum.Lst Compromiso Talento Export Report</ObjDesc>
+    <ObjLink>rechum.lstcompromisotalentoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.LstEntrevistasExportReport</ObjName>
+    <ObjDesc>RecHum.Lst Entrevistas Export Report</ObjDesc>
+    <ObjLink>rechum.lstentrevistasexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.wcLstRequisicionesPersonalEntrevistaExportReport</ObjName>
+    <ObjDesc>RecHum.wc Lst Requisiciones Personal Entrevista Export Report</ObjDesc>
+    <ObjLink>rechum.wclstrequisicionespersonalentrevistaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.ListEntrevistaMatrizExportReport</ObjName>
+    <ObjDesc>RecHum.List Entrevista Matriz Export Report</ObjDesc>
+    <ObjLink>rechum.listentrevistamatrizexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.ListCriterioEntrevistaExportReport</ObjName>
+    <ObjDesc>RecHum.List Criterio Entrevista Export Report</ObjDesc>
+    <ObjLink>rechum.listcriterioentrevistaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>partner.ListPartnerExportReport</ObjName>
+    <ObjDesc>partner.List Partner Export Report</ObjDesc>
+    <ObjLink>partner.listpartnerexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>partner.LstPartnerTiposExportReport</ObjName>
+    <ObjDesc>partner.Lst Partner Tipos Export Report</ObjDesc>
+    <ObjLink>partner.lstpartnertiposexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.LstCapacitacionExportReport</ObjName>
+    <ObjDesc>RecHum.Lst Capacitacion Export Report</ObjDesc>
+    <ObjLink>rechum.lstcapacitacionexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.ListCapacitacionPersonalExportReport</ObjName>
+    <ObjDesc>RecHum.List Capacitacion Personal Export Report</ObjDesc>
+    <ObjLink>rechum.listcapacitacionpersonalexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.LstIncapacidadExportReport</ObjName>
+    <ObjDesc>MiEspacio.Lst Incapacidad Export Report</ObjDesc>
+    <ObjLink>miespacio.lstincapacidadexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.wcLstIncapacidadesExportReport</ObjName>
+    <ObjDesc>RecHum.wc Lst Incapacidades Export Report</ObjDesc>
+    <ObjLink>rechum.wclstincapacidadesexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.LstIncrementosExportReport</ObjName>
+    <ObjDesc>RecHum.Lst Incrementos Export Report</ObjDesc>
+    <ObjLink>rechum.lstincrementosexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.LstPrestamoExportReport</ObjName>
+    <ObjDesc>MiEspacio.Lst Prestamo Export Report</ObjDesc>
+    <ObjLink>miespacio.lstprestamoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.ListPrestamosExportReport</ObjName>
+    <ObjDesc>RecHum.List Prestamos Export Report</ObjDesc>
+    <ObjLink>rechum.listprestamosexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Activos.LstActivoTipoExportReport</ObjName>
+    <ObjDesc>Activos.Lst Activo Tipo Export Report</ObjDesc>
+    <ObjLink>activos.lstactivotipoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Activos.LstActivoExportReport</ObjName>
+    <ObjDesc>Activos.Lst Activo Export Report</ObjDesc>
+    <ObjLink>activos.lstactivoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Activos.LstActivoPersonalExportReport</ObjName>
+    <ObjDesc>Activos.Lst Activo Personal Export Report</ObjDesc>
+    <ObjLink>activos.lstactivopersonalexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Activos.LstInventarioExportReport</ObjName>
+    <ObjDesc>Activos.Lst Inventario Export Report</ObjDesc>
+    <ObjLink>activos.lstinventarioexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Activos.LstPersonalActivoExportReport</ObjName>
+    <ObjDesc>Activos.Lst Personal Activo Export Report</ObjDesc>
+    <ObjLink>activos.lstpersonalactivoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Activos.LstRecepcionActivoPersonalExportReport</ObjName>
+    <ObjDesc>Activos.Lst Recepcion Activo Personal Export Report</ObjDesc>
+    <ObjLink>activos.lstrecepcionactivopersonalexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstConveniosExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Convenios Export Report</ObjDesc>
+    <ObjLink>segctrl.lstconveniosexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstIrregularidadExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Irregularidad Export Report</ObjDesc>
+    <ObjLink>segctrl.lstirregularidadexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstAnticipoContratoExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Anticipo Contrato Export Report</ObjDesc>
+    <ObjLink>segctrl.lstanticipocontratoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstAvancesInfoExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Avances Info Export Report</ObjDesc>
+    <ObjLink>segctrl.lstavancesinfoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Encuesta.LstCuestionarioExportReport</ObjName>
+    <ObjDesc>Encuesta.Lst Cuestionario Export Report</ObjDesc>
+    <ObjLink>encuesta.lstcuestionarioexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Encuesta.LstPreguntaExportReport</ObjName>
+    <ObjDesc>Encuesta.Lst Pregunta Export Report</ObjDesc>
+    <ObjLink>encuesta.lstpreguntaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Activos.wcLstActivosDeptoExportReport</ObjName>
+    <ObjDesc>Activos.wc Lst Activos Depto Export Report</ObjDesc>
+    <ObjLink>activos.wclstactivosdeptoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstContratoEstimacionExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Contrato Estimacion Export Report</ObjDesc>
+    <ObjLink>segctrl.lstcontratoestimacionexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Encuesta.LstPreguntaCategoriaExportReport</ObjName>
+    <ObjDesc>Encuesta.Lst Pregunta Categoria Export Report</ObjDesc>
+    <ObjLink>encuesta.lstpreguntacategoriaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Encuesta.ListCuestionarioExportReport</ObjName>
+    <ObjDesc>Encuesta.List Cuestionario Export Report</ObjDesc>
+    <ObjLink>encuesta.listcuestionarioexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Minutas.LstMinutasExportReport</ObjName>
+    <ObjDesc>Minutas.Lst Minutas Export Report</ObjDesc>
+    <ObjLink>minutas.lstminutasexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Minutas.wcLstOrdenesExportReport</ObjName>
+    <ObjDesc>Minutas.wc Lst Ordenes Export Report</ObjDesc>
+    <ObjLink>minutas.wclstordenesexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Minutas.wcLstComentarioExportReport</ObjName>
+    <ObjDesc>Minutas.wc Lst Comentario Export Report</ObjDesc>
+    <ObjLink>minutas.wclstcomentarioexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstContratoActividadExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Contrato Actividad Export Report</ObjDesc>
+    <ObjLink>segctrl.lstcontratoactividadexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstActiviadEvidenciaExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Activiad Evidencia Export Report</ObjDesc>
+    <ObjLink>segctrl.lstactiviadevidenciaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Reco.LstProveedorExportReport</ObjName>
+    <ObjDesc>Reco.Lst Proveedor Export Report</ObjDesc>
+    <ObjLink>reco.lstproveedorexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>ISO.LstManualExportReport</ObjName>
+    <ObjDesc>ISO.Lst Manual Export Report</ObjDesc>
+    <ObjLink>iso.lstmanualexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>ISO.LstNormaExportReport</ObjName>
+    <ObjDesc>ISO.Lst Norma Export Report</ObjDesc>
+    <ObjLink>iso.lstnormaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Reco.wcLstProveedorPartnerExportReport</ObjName>
+    <ObjDesc>Reco.wc Lst Proveedor Partner Export Report</ObjDesc>
+    <ObjLink>reco.wclstproveedorpartnerexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Reco.wcLstActaConstitutivaExportReport</ObjName>
+    <ObjDesc>Reco.wc Lst Acta Constitutiva Export Report</ObjDesc>
+    <ObjLink>reco.wclstactaconstitutivaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Reco.wcLstProveedorPartnerV001ExportReport</ObjName>
+    <ObjDesc>Reco.wc Lst Proveedor Partner V001 Export Report</ObjDesc>
+    <ObjLink>reco.wclstproveedorpartnerv001exportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Reco.LstDocumentoRECOExportReport</ObjName>
+    <ObjDesc>Reco.Lst Documento RECOExport Report</ObjDesc>
+    <ObjLink>reco.lstdocumentorecoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.LstRevisionPermisosExportReport</ObjName>
+    <ObjDesc>MiEspacio.Lst Revision Permisos Export Report</ObjDesc>
+    <ObjLink>miespacio.lstrevisionpermisosexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>ISO.LstNormaPuntosExportReport</ObjName>
+    <ObjDesc>ISO.Lst Norma Puntos Export Report</ObjDesc>
+    <ObjLink>iso.lstnormapuntosexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Minutas.LstMinutaEvidenciaExportReport</ObjName>
+    <ObjDesc>Minutas.Lst Minuta Evidencia Export Report</ObjDesc>
+    <ObjLink>minutas.lstminutaevidenciaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Contabilidad.LstSUAExportReport</ObjName>
+    <ObjDesc>Contabilidad.Lst SUAExport Report</ObjDesc>
+    <ObjLink>contabilidad.lstsuaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Contabilidad.LstImssExportReport</ObjName>
+    <ObjDesc>Contabilidad.Lst Imss Export Report</ObjDesc>
+    <ObjLink>contabilidad.lstimssexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>ISO.LstPoliticaExportReport</ObjName>
+    <ObjDesc>ISO.Lst Politica Export Report</ObjDesc>
+    <ObjLink>iso.lstpoliticaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>RecHum.LstFormatosRHExportReport</ObjName>
+    <ObjDesc>RecHum.Lst Formatos RHExport Report</ObjDesc>
+    <ObjLink>rechum.lstformatosrhexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.ListFormatoRHExportReport</ObjName>
+    <ObjDesc>MiEspacio.List Formato RHExport Report</ObjDesc>
+    <ObjLink>miespacio.listformatorhexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Contabilidad.wcNominaPorEmpresaExportReport</ObjName>
+    <ObjDesc>Contabilidad.wc Nomina Por Empresa Export Report</ObjDesc>
+    <ObjLink>contabilidad.wcnominaporempresaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstRptActividadExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Rpt Actividad Export Report</ObjDesc>
+    <ObjLink>segctrl.lstrptactividadexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.wcLstExpMedEstudioExportReport</ObjName>
+    <ObjDesc>MiEspacio.wc Lst Exp Med Estudio Export Report</ObjDesc>
+    <ObjLink>miespacio.wclstexpmedestudioexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.wcLstExpMedEnfExportReport</ObjName>
+    <ObjDesc>MiEspacio.wc Lst Exp Med Enf Export Report</ObjDesc>
+    <ObjLink>miespacio.wclstexpmedenfexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.wcLstExpMedCxExportReport</ObjName>
+    <ObjDesc>MiEspacio.wc Lst Exp Med Cx Export Report</ObjDesc>
+    <ObjLink>miespacio.wclstexpmedcxexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.wcLstExpMedicinaExportReport</ObjName>
+    <ObjDesc>MiEspacio.wc Lst Exp Medicina Export Report</ObjDesc>
+    <ObjLink>miespacio.wclstexpmedicinaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.wcLstExpMedAlergiaExportReport</ObjName>
+    <ObjDesc>MiEspacio.wc Lst Exp Med Alergia Export Report</ObjDesc>
+    <ObjLink>miespacio.wclstexpmedalergiaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstUnidadContratanteExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Unidad Contratante Export Report</ObjDesc>
+    <ObjLink>segctrl.lstunidadcontratanteexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>ISO.LstMapeoProcesoExportReport</ObjName>
+    <ObjDesc>ISO.Lst Mapeo Proceso Export Report</ObjDesc>
+    <ObjLink>iso.lstmapeoprocesoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Direccion.LstMapeosProcesoExportReport</ObjName>
+    <ObjDesc>Direccion.Lst Mapeos Proceso Export Report</ObjDesc>
+    <ObjLink>direccion.lstmapeosprocesoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>ISO.LstRiesgoEvolucionExportReport</ObjName>
+    <ObjDesc>ISO.Lst Riesgo Evolucion Export Report</ObjDesc>
+    <ObjLink>iso.lstriesgoevolucionexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>TI.LstTicketExportReport</ObjName>
+    <ObjDesc>TI.Lst Ticket Export Report</ObjDesc>
+    <ObjLink>ti.lstticketexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>MiEspacio.LstTicketUsuarioExportReport</ObjName>
+    <ObjDesc>MiEspacio.Lst Ticket Usuario Export Report</ObjDesc>
+    <ObjLink>miespacio.lstticketusuarioexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>TI.wcTicketNivelTiempoRespuestaExportReport</ObjName>
+    <ObjDesc>TI.wc Ticket Nivel Tiempo Respuesta Export Report</ObjDesc>
+    <ObjLink>ti.wcticketniveltiemporespuestaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstContratoPlanoExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Contrato Plano Export Report</ObjDesc>
+    <ObjLink>segctrl.lstcontratoplanoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Propuestas.LstConvocatoriaExportReport</ObjName>
+    <ObjDesc>Propuestas.Lst Convocatoria Export Report</ObjDesc>
+    <ObjLink>propuestas.lstconvocatoriaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Propuestas.LstPropuestasExportReport</ObjName>
+    <ObjDesc>Propuestas.Lst Propuestas Export Report</ObjDesc>
+    <ObjLink>propuestas.lstpropuestasexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Administracion.LstTipoFiguraLegalExportReport</ObjName>
+    <ObjDesc>Administracion.Lst Tipo Figura Legal Export Report</ObjDesc>
+    <ObjLink>administracion.lsttipofiguralegalexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>Administracion.wcLstEmpresaFigLegExportReport</ObjName>
+    <ObjDesc>Administracion.wc Lst Empresa Fig Leg Export Report</ObjDesc>
+    <ObjLink>administracion.wclstempresafiglegexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstContratoDocumentoExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Contrato Documento Export Report</ObjDesc>
+    <ObjLink>segctrl.lstcontratodocumentoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstProyectoSICTExportReport</ObjName>
+    <ObjDesc>SICT.Lst Proyecto SICTExport Report</ObjDesc>
+    <ObjLink>sict.lstproyectosictexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstPuenteExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Puente Export Report</ObjDesc>
+    <ObjLink>sict.wclstpuenteexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstTramoExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Tramo Export Report</ObjDesc>
+    <ObjLink>sict.wclsttramoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstContratoEstatusExportReport</ObjName>
+    <ObjDesc>SICT.Lst Contrato Estatus Export Report</ObjDesc>
+    <ObjLink>sict.lstcontratoestatusexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstContratoDocumentoEstimacionExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Contrato Documento Estimacion Export Report</ObjDesc>
+    <ObjLink>segctrl.lstcontratodocumentoestimacionexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstEstimacionEPDocumentoExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Estimacion EPDocumento Export Report</ObjDesc>
+    <ObjLink>segctrl.lstestimacionepdocumentoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.wcLstEPExportReport</ObjName>
+    <ObjDesc>SegCtrl.wc Lst EPExport Report</ObjDesc>
+    <ObjLink>segctrl.wclstepexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstAvancesExportReport</ObjName>
+    <ObjDesc>SICT.Lst Avances Export Report</ObjDesc>
+    <ObjLink>sict.lstavancesexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstE7XProyectoExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst E7 XProyecto Export Report</ObjDesc>
+    <ObjLink>segctrl.lste7xproyectoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstLargilloExportReport</ObjName>
+    <ObjDesc>SICT.Lst Largillo Export Report</ObjDesc>
+    <ObjLink>sict.lstlargilloexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstTrabajoExportReport</ObjName>
+    <ObjDesc>SICT.Lst Trabajo Export Report</ObjDesc>
+    <ObjLink>sict.lsttrabajoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstAvanceNotaExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Avance Nota Export Report</ObjDesc>
+    <ObjLink>sict.wclstavancenotaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.ListContratoE7ExportReport</ObjName>
+    <ObjDesc>SICT.List Contrato E7 Export Report</ObjDesc>
+    <ObjLink>sict.listcontratoe7exportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstGenradorEstimacionExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Genrador Estimacion Export Report</ObjDesc>
+    <ObjLink>sict.wclstgenradorestimacionexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstReporteFotoExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Reporte Foto Export Report</ObjDesc>
+    <ObjLink>sict.wclstreportefotoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstMinutaTrabajoFotoExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Minuta Trabajo Foto Export Report</ObjDesc>
+    <ObjLink>sict.wclstminutatrabajofotoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstMinutaTrabajoExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Minuta Trabajo Export Report</ObjDesc>
+    <ObjLink>sict.wclstminutatrabajoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstLarguilloExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Larguillo Export Report</ObjDesc>
+    <ObjLink>sict.wclstlarguilloexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcProyectosSICTExportReport</ObjName>
+    <ObjDesc>SICT.wc Proyectos SICTExport Report</ObjDesc>
+    <ObjLink>sict.wcproyectossictexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstTipoRedExportReport</ObjName>
+    <ObjDesc>SICT.Lst Tipo Red Export Report</ObjDesc>
+    <ObjLink>sict.lsttiporedexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstObraEstadoFisicoExportReport</ObjName>
+    <ObjDesc>SICT.Lst Obra Estado Fisico Export Report</ObjDesc>
+    <ObjLink>sict.lstobraestadofisicoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstTipoObraDrenajeExportReport</ObjName>
+    <ObjDesc>SICT.Lst Tipo Obra Drenaje Export Report</ObjDesc>
+    <ObjLink>sict.lsttipoobradrenajeexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstObrasDrenajeExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Obras Drenaje Export Report</ObjDesc>
+    <ObjLink>sict.wclstobrasdrenajeexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstContactoContratoExportReport</ObjName>
+    <ObjDesc>SICT.Lst Contacto Contrato Export Report</ObjDesc>
+    <ObjLink>sict.lstcontactocontratoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstContactoContratoTipoExportReport</ObjName>
+    <ObjDesc>SICT.Lst Contacto Contrato Tipo Export Report</ObjDesc>
+    <ObjLink>sict.lstcontactocontratotipoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.LstDocumentoExpedienteExportReport</ObjName>
+    <ObjDesc>SegCtrl.Lst Documento Expediente Export Report</ObjDesc>
+    <ObjLink>segctrl.lstdocumentoexpedienteexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstBacheExportReport</ObjName>
+    <ObjDesc>SICT.Lst Bache Export Report</ObjDesc>
+    <ObjLink>sict.lstbacheexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstContratoTramoExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Contrato Tramo Export Report</ObjDesc>
+    <ObjLink>sict.wclstcontratotramoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstBacheInformeExportReport</ObjName>
+    <ObjDesc>SICT.Lst Bache Informe Export Report</ObjDesc>
+    <ObjLink>sict.lstbacheinformeexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstBacheValidadorExportReport</ObjName>
+    <ObjDesc>SICT.Lst Bache Validador Export Report</ObjDesc>
+    <ObjLink>sict.lstbachevalidadorexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstAvancesExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Avances Export Report</ObjDesc>
+    <ObjLink>sict.wclstavancesexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstDrenajeGaleriaExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Drenaje Galeria Export Report</ObjDesc>
+    <ObjLink>sict.wclstdrenajegaleriaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstMinutaTrabajoFotoV01ExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Minuta Trabajo Foto V01 Export Report</ObjDesc>
+    <ObjLink>sict.wclstminutatrabajofotov01exportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstRecorridoExportReport</ObjName>
+    <ObjDesc>SICT.Lst Recorrido Export Report</ObjDesc>
+    <ObjLink>sict.lstrecorridoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.LstBachePlantillaXlsExportReport</ObjName>
+    <ObjDesc>SICT.Lst Bache Plantilla Xls Export Report</ObjDesc>
+    <ObjLink>sict.lstbacheplantillaxlsexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.BacheWWExportReport</ObjName>
+    <ObjDesc>SICT.Bache WWExport Report</ObjDesc>
+    <ObjLink>sict.bachewwexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstRevisarBacheV001ExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Revisar Bache V001 Export Report</ObjDesc>
+    <ObjLink>sict.wclstrevisarbachev001exportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcBachesXEmpresasExportReport</ObjName>
+    <ObjDesc>SICT.wc Baches XEmpresas Export Report</ObjDesc>
+    <ObjLink>sict.wcbachesxempresasexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.wcLstEPGeneradaExportReport</ObjName>
+    <ObjDesc>SegCtrl.wc Lst EPGenerada Export Report</ObjDesc>
+    <ObjLink>segctrl.wclstepgeneradaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstReporteFotoProteccionExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Reporte Foto Proteccion Export Report</ObjDesc>
+    <ObjLink>sict.wclstreportefotoproteccionexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SICT.wcLstMinutaInformeFotoExportReport</ObjName>
+    <ObjDesc>SICT.wc Lst Minuta Informe Foto Export Report</ObjDesc>
+    <ObjLink>sict.wclstminutainformefotoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.lstContratosGeneradoresExportReport</ObjName>
+    <ObjDesc>SegCtrl.lst Contratos Generadores Export Report</ObjDesc>
+    <ObjLink>segctrl.lstcontratosgeneradoresexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.lstContratoTramoGExportReport</ObjName>
+    <ObjDesc>SegCtrl.lst Contrato Tramo GExport Report</ObjDesc>
+    <ObjLink>segctrl.lstcontratotramogexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.lstConceptosTramoExportReport</ObjName>
+    <ObjDesc>SegCtrl.lst Conceptos Tramo Export Report</ObjDesc>
+    <ObjLink>segctrl.lstconceptostramoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.lstConceptosFechaGeneradoresExportReport</ObjName>
+    <ObjDesc>SegCtrl.lst Conceptos Fecha Generadores Export Report</ObjDesc>
+    <ObjLink>segctrl.lstconceptosfechageneradoresexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.lstConceptosFechaExportReport</ObjName>
+    <ObjDesc>SegCtrl.lst Conceptos Fecha Export Report</ObjDesc>
+    <ObjLink>segctrl.lstconceptosfechaexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.lstGeneradoresPartnerExportReport</ObjName>
+    <ObjDesc>SegCtrl.lst Generadores Partner Export Report</ObjDesc>
+    <ObjLink>segctrl.lstgeneradorespartnerexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.lstTramoConfExportReport</ObjName>
+    <ObjDesc>SegCtrl.lst Tramo Conf Export Report</ObjDesc>
+    <ObjLink>segctrl.lsttramoconfexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.lstTipoRegPartnerGExportReport</ObjName>
+    <ObjDesc>SegCtrl.lst Tipo Reg Partner GExport Report</ObjDesc>
+    <ObjLink>segctrl.lsttiporegpartnergexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.lstAsignacionFechasExportReport</ObjName>
+    <ObjDesc>SegCtrl.lst Asignacion Fechas Export Report</ObjDesc>
+    <ObjLink>segctrl.lstasignacionfechasexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.wcConceptosTramoExportReport</ObjName>
+    <ObjDesc>SegCtrl.wc Conceptos Tramo Export Report</ObjDesc>
+    <ObjLink>segctrl.wcconceptostramoexportreport.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>1</ObjCls>
+    <ObjName>SegCtrl.wclstReporteFotoExportReport</ObjName>
+    <ObjDesc>SegCtrl.wclst Reporte Foto Export Report</ObjDesc>
+    <ObjLink>segctrl.wclstreportefotoexportreport.aspx</ObjLink>
+  </Object>
+</Objects>

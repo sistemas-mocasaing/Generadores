@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="9c6c5b08-c5df-74b2-8510-941dd505cc8c" name="SegCtrl.TipoDocDinamico_DataProvider" description="Tipo Doc Dinamico_Data Provider" namespace="GeneXus.Programs">
+  <Signature name="parm">
+    <Parameter name="ReturnValue" accessor="out" collection="true">
+      <Field name="TipoDocDinamico" description="Tipo Doc Dinamico">
+        <Fields>
+          <Field name="TipoDocDinamicoId" description="Tipo Doc Dinamico Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TipoDocDinamicoNombre" description="Tipo Doc Dinamico Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TipoDocDinamicoDescripcion" description="Tipo Doc Dinamico Descripcion">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>2000</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TipoDocDinamicoListadoNombre" description="Tipo Doc Dinamico Listado Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

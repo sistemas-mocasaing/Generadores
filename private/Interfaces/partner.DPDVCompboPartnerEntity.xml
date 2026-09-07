@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="3cd02c27-bbd9-432e-826a-41ae5d6d5245" name="partner.DPDVCompboPartnerEntity" description="DPDVCompbo Partner Entity" namespace="GeneXus.Programs">
+  <Signature name="par">
+    <Parameter name="Entityname">
+      <Field>
+        <Properties>
+          <Property>
+            <Name>Type</Name>
+            <Value>VarChar</Value>
+          </Property>
+          <Property>
+            <Name>Length</Name>
+            <Value>160</Value>
+          </Property>
+        </Properties>
+      </Field>
+    </Parameter>
+    <Parameter name="ReturnValue" accessor="out">
+      <Field name="DVB_SDTComboData" description="DVB_SDTCombo Data" collection="true">
+        <Fields>
+          <Field name="ID" description="ID">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="Title" description="Title">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="Children" description="Children">
+            <Fields />
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

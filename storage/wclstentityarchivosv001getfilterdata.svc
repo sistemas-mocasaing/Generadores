@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.storage.wclstentityarchivosv001getfilterdata,storage.wclstentityarchivosv001getfilterdata" %>

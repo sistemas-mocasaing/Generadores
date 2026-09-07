@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="guid" guid="1f9ebf92-69e5-491c-8768-c228d13011de">
+  <Table name="BacheSD" />
+  <Table name="RecorridoSD" />
+</Dependencies>

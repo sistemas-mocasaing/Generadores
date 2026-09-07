@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="19003c3f-8c03-457b-af08-a4a0bf48d031" name="Master.DPSDTTelerikReports" description="DPSDTTelerik Reports" namespace="GeneXus.Programs">
+  <Signature name="par">
+    <Parameter name="TelerikReportModule">
+      <Field>
+        <Properties>
+          <Property>
+            <Name>Type</Name>
+            <Value>VarChar</Value>
+          </Property>
+          <Property>
+            <Name>Length</Name>
+            <Value>200</Value>
+          </Property>
+        </Properties>
+      </Field>
+    </Parameter>
+    <Parameter name="ReturnValue" accessor="out">
+      <Field name="SDTTelerikReports" description="SDTTelerik Reports" collection="true">
+        <Fields>
+          <Field name="TelerikReportId" description="Telerik Report Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+              <Property>
+                <Name>Picture</Name>
+                <Value>ZZZZZZZZZZZZZZZZZ9</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TelerikReportName" description="Telerik Report Name">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>160</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TelerikReportDescription" description="Telerik Report Description">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>1000</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TelerikReportSource" description="Telerik Report Source">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>500</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TelerikReportModule" description="Telerik Report Module">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="TelerikReportTemplate" description="Telerik Report Template">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

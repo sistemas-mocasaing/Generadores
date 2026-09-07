@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="cb34e1f7-ad9a-7b9d-b2be-e50d35837e57" name="SegCtrl.Contrato_DataProvider" description="Contrato_Data Provider" namespace="GeneXus.Programs">
+  <Signature name="parm">
+    <Parameter name="ReturnValue" accessor="out" collection="true">
+      <Field name="Contrato" description="Contrato">
+        <Fields>
+          <Field name="ContratoId" description="Contrato Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoNumero" description="Contrato Numero">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoNumeroFix" description="Contrato Numero Fix">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoDescripcion" description="Contrato Descripcion">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>2000</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoFechaInicio" description="Contrato Fecha Inicio">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Date</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>8</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoFechaFin" description="Contrato Fecha Fin">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Date</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>8</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="EntidadFederativaId" description="Entidad Federativa">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="EntidadFederativaNombre" description="Entidad Federativa">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoContratistasDescripcion" description="Contrato Contratistas Descripcion">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>2000</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoAliasNombre" description="Contrato Alias Nombre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoOrden" description="Contrato Orden">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoAvancesFisicosChartType" description="Contrato Avances Fisicos Chart Type">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="UnidadContratanteId" description="Unidad Contratante Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="UnidadContratantePseudonimo" description="Unidad Contratante Pseudonimo">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoTipo" description="Contrato Tipo">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoBaseId" description="Contrato Base Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoTieneDocumentoInicializado" description="Contrato Tiene Documento Inicializado">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Boolean</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoFechaRegistroEstimacion" description="Contrato Fecha Registro Estimacion">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Date</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>8</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoAnticipoPorcentaje" description="Contrato Anticipo Porcentaje">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>8</Value>
+              </Property>
+              <Property>
+                <Name>Decimals</Name>
+                <Value>4</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoImporteLastId" description="Contrato Importe Last Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoResponsable" description="Contrato Responsable">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoResponsableCargo" description="Contrato Responsable Cargo">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoXLSOrden" description="Contrato XLSOrden">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoNum" description="Contrato Num">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="Importe" description="Importe" collection="true">
+            <Fields>
+              <Field name="ContratoImporteId" description="Contrato Importe Id">
+                <Properties>
+                  <Property>
+                    <Name>Type</Name>
+                    <Value>Numeric</Value>
+                  </Property>
+                  <Property>
+                    <Name>Length</Name>
+                    <Value>18</Value>
+                  </Property>
+                </Properties>
+              </Field>
+              <Field name="ContratoImporteMonto" description="Contrato Importe Monto">
+                <Properties>
+                  <Property>
+                    <Name>Type</Name>
+                    <Value>Numeric</Value>
+                  </Property>
+                  <Property>
+                    <Name>Length</Name>
+                    <Value>18</Value>
+                  </Property>
+                  <Property>
+                    <Name>Signed</Name>
+                    <Value>True</Value>
+                  </Property>
+                  <Property>
+                    <Name>Decimals</Name>
+                    <Value>2</Value>
+                  </Property>
+                </Properties>
+              </Field>
+              <Field name="ContratoImporteFechaIni" description="Contrato Importe Fecha Ini">
+                <Properties>
+                  <Property>
+                    <Name>Type</Name>
+                    <Value>Date</Value>
+                  </Property>
+                  <Property>
+                    <Name>Length</Name>
+                    <Value>8</Value>
+                  </Property>
+                </Properties>
+              </Field>
+              <Field name="ContratoImporteFechaFin" description="Contrato Importe Fecha Fin">
+                <Properties>
+                  <Property>
+                    <Name>Type</Name>
+                    <Value>Date</Value>
+                  </Property>
+                  <Property>
+                    <Name>Length</Name>
+                    <Value>8</Value>
+                  </Property>
+                </Properties>
+              </Field>
+              <Field name="ProgramaId" description="Programa Id">
+                <Properties>
+                  <Property>
+                    <Name>Type</Name>
+                    <Value>Numeric</Value>
+                  </Property>
+                  <Property>
+                    <Name>Length</Name>
+                    <Value>18</Value>
+                  </Property>
+                </Properties>
+              </Field>
+              <Field name="ProgramaNombre" description="Programa Nombre">
+                <Properties>
+                  <Property>
+                    <Name>Type</Name>
+                    <Value>VarChar</Value>
+                  </Property>
+                  <Property>
+                    <Name>Length</Name>
+                    <Value>200</Value>
+                  </Property>
+                </Properties>
+              </Field>
+              <Field name="ProgramaRequiereObraDrenaje" description="Programa Requiere Obra Drenaje">
+                <Properties>
+                  <Property>
+                    <Name>Type</Name>
+                    <Value>Boolean</Value>
+                  </Property>
+                </Properties>
+              </Field>
+              <Field name="ProgramaTipo" description="Programa Tipo">
+                <Properties>
+                  <Property>
+                    <Name>Type</Name>
+                    <Value>VarChar</Value>
+                  </Property>
+                  <Property>
+                    <Name>Length</Name>
+                    <Value>40</Value>
+                  </Property>
+                </Properties>
+              </Field>
+              <Field name="ProgramaRequiereAsignacionTramos" description="Programa Requiere Asignacion Tramos">
+                <Properties>
+                  <Property>
+                    <Name>Type</Name>
+                    <Value>Boolean</Value>
+                  </Property>
+                </Properties>
+              </Field>
+            </Fields>
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

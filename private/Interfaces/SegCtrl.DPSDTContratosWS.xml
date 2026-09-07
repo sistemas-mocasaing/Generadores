@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="7c71f508-39d1-402a-b011-de11e51c2658" name="SegCtrl.DPSDTContratosWS" description="DPSDTContratos WS" namespace="GeneXus.Programs">
+  <Signature name="parm">
+    <Parameter name="ReturnValue" accessor="out">
+      <Field name="SDTContratosWS" description="SDTContratos WS" collection="true">
+        <Fields>
+          <Field name="ContratoId" description="Contrato Id">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+              <Property>
+                <Name>Picture</Name>
+                <Value>ZZZZZZZZZZZZZZZZZ9</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="ContratoNumero" description="Contrato Numero">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

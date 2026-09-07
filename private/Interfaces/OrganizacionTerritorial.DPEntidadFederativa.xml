@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="c25aa53a-9597-47f1-839e-c1d65ba83fb9" name="OrganizacionTerritorial.DPEntidadFederativa" description="DPEntidad Federativa" namespace="GeneXus.Programs">
+  <Signature name="parm">
+    <Parameter name="ReturnValue" accessor="out">
+      <Field name="SDTLstEntidadFederativa" description="SDTLst Entidad Federativa" collection="true">
+        <Fields>
+          <Field name="EntidadFederativaId" description="Entidad Federativa">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+              <Property>
+                <Name>Picture</Name>
+                <Value>ZZZZZZZZZZZZZZZZZ9</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="EntidadFederativaNombre" description="Entidad Federativa">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="EntidadFederativaCapital" description="Entidad Federativa Capital">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>200</Value>
+              </Property>
+            </Properties>
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

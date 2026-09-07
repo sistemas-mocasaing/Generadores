@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="43823425-5a7f-4cd1-a4b7-b76ad1e2abaa" name="SICT.DPComboParticipanteXContrato" description="DPCombo Participante XContrato" namespace="GeneXus.Programs">
+  <Signature name="par">
+    <Parameter name="ContratoId">
+      <Field>
+        <Properties>
+          <Property>
+            <Name>Type</Name>
+            <Value>Numeric</Value>
+          </Property>
+          <Property>
+            <Name>Length</Name>
+            <Value>18</Value>
+          </Property>
+        </Properties>
+      </Field>
+    </Parameter>
+    <Parameter name="ReturnValue" accessor="out">
+      <Field name="DVB_SDTComboData" description="DVB_SDTCombo Data" collection="true">
+        <Fields>
+          <Field name="ID" description="ID">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="Title" description="Title">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>VarChar</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>40</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="Children" description="Children">
+            <Fields />
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

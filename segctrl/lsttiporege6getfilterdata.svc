@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.segctrl.lsttiporege6getfilterdata,segctrl.lsttiporege6getfilterdata" %>

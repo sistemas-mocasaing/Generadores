@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.partner.listpartnergetfilterdata,partner.listpartnergetfilterdata" %>

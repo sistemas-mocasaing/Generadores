@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.ti.lstticketgetfilterdata,ti.lstticketgetfilterdata" %>

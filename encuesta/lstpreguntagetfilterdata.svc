@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.encuesta.lstpreguntagetfilterdata,encuesta.lstpreguntagetfilterdata" %>

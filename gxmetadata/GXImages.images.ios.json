@@ -1,0 +1,7 @@
+{ 
+    "Resources" : [ { 
+        "Language" : "Spanish",
+        "Theme" : "CarmineSD",
+        "ResourceFile" : "Images_Spanish_CarmineSD.json"
+    } ]
+}

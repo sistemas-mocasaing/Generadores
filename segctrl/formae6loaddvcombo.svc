@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.segctrl.formae6loaddvcombo,segctrl.formae6loaddvcombo" %>

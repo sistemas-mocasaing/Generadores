@@ -1,0 +1,4 @@
+{
+
+"GxObject":{"ObjectType":"BusinessComponent","Name":"finanzas.Destino","idConnectivitySupport":"idInherit","Structure":{"Levels":[{"Name":"Destino","ParentLevel":"","LevelName":"finanzas.Destino","Description":"Destino","Attributes":[{"Name":"DestinoId","Caption":"Destino Id","default":"0","AutoNumber":"true","IsKey":"true","ReadOnly":"false","AttributeType":"int","Description":"Destino Id","Length":"18","Decimals":"0","Signed":"false","AllowDBNulls":"false","Domain":"Id","InternalName":"DestinoId","InputPicture":"ZZZZZZZZZZZZZZZZZ9","Type":"xs:int"},{"Name":"DestinoNombre","Caption":"Destino Nombre","default":"","IsKey":"false","ReadOnly":"false","AttributeType":"svchar","Description":"Destino Nombre","Length":"200","Decimals":"0","Signed":"false","AllowDBNulls":"false","Domain":"Master\\Nombre","InternalName":"DestinoNombre","DescriptionAtt":"true","InputPicture":"","Type":"xs:string"}]}]},"Relations":{"ManyToOne":{"references":[]}}}
+}

@@ -1,0 +1,246 @@
+{ 
+    "ResourcesLocation" : "Resources",
+    "Language" : "Spanish",
+    "Theme" : "WorkWithPlusDS",
+    "Images" : [ { 
+        "Name" : "GAM.GAMButtonGAMRemoteSmall",
+        "Type" : "I",
+        "Guid" : "6cdd3e18-cc5b-44e0-bd22-3efaf48a6c40",
+        "Location" : "GAM.GAMButtonGAMRemoteSmall.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "Avatar",
+        "Type" : "I",
+        "Guid" : "3a2bb037-746f-4ca9-85b6-8a9333319398",
+        "Location" : "Avatar.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "Favicon",
+        "Type" : "I",
+        "Guid" : "cceab8ff-208f-4395-99fd-7fe799e0d69c",
+        "Location" : "Favicon.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "StepSelectedUnSelected",
+        "Type" : "I",
+        "Guid" : "2fe377a7-df7d-42aa-84d4-4f1b853d50aa",
+        "Location" : "StepSelectedUnSelected.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "StepUnSelectedSelected",
+        "Type" : "I",
+        "Guid" : "8f7f2ead-3d17-4e23-a450-7d98b62b7f40",
+        "Location" : "StepUnSelectedSelected.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "BackgroundImage",
+        "Type" : "I",
+        "Guid" : "d35b0751-c891-4630-a4fa-dbae97994509",
+        "Location" : "BackgroundImage.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "LoadingResults",
+        "Type" : "I",
+        "Guid" : "d5b04b36-95ad-4b56-adb5-905e950f2966",
+        "Location" : "LoadingResults.gif",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "PanelCardGray_Expand",
+        "Type" : "I",
+        "Guid" : "7379fd0b-68ee-4027-a3ce-187f263a77dd",
+        "Location" : "PanelCardGray_Expand.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "ErrorIcon",
+        "Type" : "I",
+        "Guid" : "b63f5646-3a80-45fa-b28f-1940d496304c",
+        "Location" : "ErrorIcon.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "WarningIcon",
+        "Type" : "I",
+        "Guid" : "4041cec4-85fe-4bd8-aaa2-a8a2026c306c",
+        "Location" : "WarningIcon.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "PageFirst",
+        "Type" : "I",
+        "Guid" : "90274dae-49c6-47ae-98c4-7a8f5eb82c12",
+        "Location" : "PageFirst.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "PageLast",
+        "Type" : "I",
+        "Guid" : "eb16c005-5a7d-48a8-a16c-d7dcc1909b6e",
+        "Location" : "PageLast.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "PageNext",
+        "Type" : "I",
+        "Guid" : "ffebe689-f176-4a2f-914b-2ea1a59db803",
+        "Location" : "PageNext.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "PagePrevious",
+        "Type" : "I",
+        "Guid" : "cdf36de9-aae4-40c2-928b-5dd2f7589dc9",
+        "Location" : "PagePrevious.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "ActionExport",
+        "Type" : "I",
+        "Guid" : "da69a816-fd11-445b-8aaf-1a2f7f1acc93",
+        "Location" : "ActionExport.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "VideoDownload",
+        "Type" : "I",
+        "Guid" : "0c21d616-7754-482e-8fdd-db45c4cf1655",
+        "Location" : "VideoDownload.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "WizardStepChecked",
+        "Type" : "I",
+        "Guid" : "865df215-b0dc-43d2-9da0-5b72cef9880a",
+        "Location" : "WizardStepChecked.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "DDOSortedASC",
+        "Type" : "I",
+        "Guid" : "b9f89e2f-f9e1-4533-b84e-c591709915f9",
+        "Location" : "DDOSortedASC.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "DDOSortedDSC",
+        "Type" : "I",
+        "Guid" : "c9603047-0d43-4b43-98f8-9206148120d4",
+        "Location" : "DDOSortedDSC.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "ActionExportReport",
+        "Type" : "I",
+        "Guid" : "776fb79c-a0a1-4302-b5e5-d773dbe1a297",
+        "Location" : "ActionExportReport.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "ClosePrompt",
+        "Type" : "I",
+        "Guid" : "10b4b52b-f115-45cb-bb07-61218258d20b",
+        "Location" : "ClosePrompt.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "prompt",
+        "Type" : "I",
+        "Guid" : "f5b04895-0024-488b-8e3b-b687ca4598ee",
+        "Location" : "prompt.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "MocasaLogo300Transparent",
+        "Type" : "I",
+        "Guid" : "1621fdc1-3a61-4889-a77d-14c2180e62f8",
+        "Location" : "MocasaLogo300Transparent.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SegCtrl.ImgHome",
+        "Type" : "I",
+        "Guid" : "0295d01d-9cf1-49f6-8743-f0b07e62dc45",
+        "Location" : "SegCtrl.ImgHome.jpg",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "BtnGaleria",
+        "Type" : "I",
+        "Guid" : "b433b92e-8afa-4cf6-a8b4-bfb4bb4ab3d3",
+        "Location" : "BtnGaleria.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SegCtrl.LogoPueblaGob",
+        "Type" : "I",
+        "Guid" : "09f35361-0e39-490f-9f9d-827b2dcc94d7",
+        "Location" : "SegCtrl.LogoPueblaGob.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "LogoSCT2022",
+        "Type" : "I",
+        "Guid" : "edad5066-871c-40b8-af56-477a0180d9dd",
+        "Location" : "LogoSCT2022.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "LoginReco",
+        "Type" : "I",
+        "Guid" : "fe0f2b8b-a0cc-4f61-868d-a21ea6404b82",
+        "Location" : "LoginReco.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "syncroniation",
+        "Type" : "I",
+        "Guid" : "078578eb-e95c-41e8-afe6-3e3d91ebdbc7",
+        "Location" : "syncroniation.png",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "SICT.ImgRecorrido",
+        "Type" : "I",
+        "Guid" : "6260349b-275d-4a4d-8fba-7d4205aa88da",
+        "Location" : "SICT.ImgRecorrido.jpg",
+        "Density" : 1,
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    } ]
+}
