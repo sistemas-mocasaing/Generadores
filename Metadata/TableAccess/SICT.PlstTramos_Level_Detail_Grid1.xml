@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="name" name="SICT\PlstTramos_Level_Detail_Grid1">
+  <Table name="ContratoTramoGeneradores" />
+</Dependencies>
