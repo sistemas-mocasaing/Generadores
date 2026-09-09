@@ -378,6 +378,9 @@
   <Object name="SICT.DPComboConceptos" id="159" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboConceptos" xmlns="qv">
     <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
   </Object>
+  <Object name="SegCtrl.DPComboConceptosTramo" id="160" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboConceptosTramo" xmlns="qv">
+    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
+  </Object>
   <Object name="SegCtrl.QryAvancesFisicos" id="1" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QryAvancesFisicos" xmlns="qv">
     <DefaultOutput type="OutputTypeTable" xmlns="qv" />
   </Object>
@@ -415,9 +418,6 @@
     <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
   </Object>
   <Object name="SegCtrl.QryEjecutadoTrabajo" id="14" type="Query" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="QryEjecutadoTrabajo" xmlns="qv">
-    <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
-  </Object>
-  <Object name="SegCtrl.DPComboConceptosTramo" id="160" type="DataProvider" IntegratedSecurityLevel="SecurityHigh" PermissionPrefix="DPComboConceptosTramo" xmlns="qv">
     <DefaultOutput type="OutputTypePivotTable" xmlns="qv" />
   </Object>
 </Objects>

@@ -3663,4 +3663,10 @@
       <ObjDesc>SegCtrl.wclst Reporte Foto Export Report</ObjDesc>
       <ObjLink>segctrl.wclstreportefotoexportreport.aspx</ObjLink>
    </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>SegCtrl.wcConceptoCargaVistaExportReport</ObjName>
+      <ObjDesc>SegCtrl.wc Concepto Carga Vista Export Report</ObjDesc>
+      <ObjLink>segctrl.wcconceptocargavistaexportreport.aspx</ObjLink>
+   </Object>
 </Objects>

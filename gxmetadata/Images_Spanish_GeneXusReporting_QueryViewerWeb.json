@@ -1206,13 +1206,5 @@
         "Density" : 1,
         "RenderingMode" : "automatic",
         "FlipsForRTL" : false
-    }, { 
-        "Name" : "SICT.ImgRecorrido",
-        "Type" : "I",
-        "Guid" : "6260349b-275d-4a4d-8fba-7d4205aa88da",
-        "Location" : "SICT.ImgRecorrido.jpg",
-        "Density" : 1,
-        "RenderingMode" : "automatic",
-        "FlipsForRTL" : false
     } ]
 }
