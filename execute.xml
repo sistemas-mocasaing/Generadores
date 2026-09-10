@@ -2552,6 +2552,12 @@
     <ObjLink>segctrl.wpreporte.aspx</ObjLink>
   </Object>
   <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>segctrl.wpReporteGen</ObjName>
+    <ObjDesc>SegCtrl.wp Reporte Gen</ObjDesc>
+    <ObjLink>segctrl.wpreportegen.aspx</ObjLink>
+  </Object>
+  <Object>
     <ObjCls>1</ObjCls>
     <ObjName>WWPBaseObjects.WWP_DownloadReport</ObjName>
     <ObjDesc>WWPBaseObjects.Download Report</ObjDesc>
