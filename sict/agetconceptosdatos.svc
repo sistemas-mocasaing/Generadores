@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.sict.agetconceptosdatos,sict\getconceptosdatos" %>
