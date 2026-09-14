@@ -1,9 +1,3 @@
-ALTER TABLE [GeneradoresConceptosTramo] ADD [GeneradoresConceptosTramoFila] smallint NOT NULL CONSTRAINT GeneradoresConceptosTramoFilaGeneradoresConceptosTramo_DEFAULT DEFAULT convert(int, 0);
-ALTER TABLE [GeneradoresConceptosTramo] DROP CONSTRAINT GeneradoresConceptosTramoFilaGeneradoresConceptosTramo_DEFAULT;
-
-ALTER TABLE [GeneradoresConceptosAuditoria] ADD [GeneradoresConceptosAuditoriaFila] smallint NOT NULL CONSTRAINT GeneradoresConceptosAuditoriaFilaGeneradoresConceptosAuditoria_DEFAULT DEFAULT convert(int, 0);
-ALTER TABLE [GeneradoresConceptosAuditoria] DROP CONSTRAINT GeneradoresConceptosAuditoriaFilaGeneradoresConceptosAuditoria_DEFAULT;
-
-ALTER TABLE [GeneradoresTrabajoDatos] ADD [GeneradoresTrabajoDatosFila] BIT NOT NULL CONSTRAINT GeneradoresTrabajoDatosFilaGeneradoresTrabajoDatos_DEFAULT DEFAULT convert(bit, 0);
-ALTER TABLE [GeneradoresTrabajoDatos] DROP CONSTRAINT GeneradoresTrabajoDatosFilaGeneradoresTrabajoDatos_DEFAULT;
+ALTER TABLE [AsignacionFechaGeneradores] ADD [AsignacionFechaGeneradoresMotivo] nvarchar(80) NOT NULL CONSTRAINT AsignacionFechaGeneradoresMotivoAsignacionFechaGeneradores_DEFAULT DEFAULT '';
+ALTER TABLE [AsignacionFechaGeneradores] DROP CONSTRAINT AsignacionFechaGeneradoresMotivoAsignacionFechaGeneradores_DEFAULT;
 
