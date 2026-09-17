@@ -2655,7 +2655,7 @@
   </Object>
   <Object>
     <ObjCls>1</ObjCls>
-    <ObjName>RecHum.listvacacionesExportReport</ObjName>
+    <ObjName>rechum.listvacacionesExportReport</ObjName>
     <ObjDesc>RecHum.listvacaciones Export Report</ObjDesc>
     <ObjLink>rechum.listvacacionesexportreport.aspx</ObjLink>
   </Object>
