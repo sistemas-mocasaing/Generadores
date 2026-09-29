@@ -2564,6 +2564,12 @@
     <ObjLink>segctrl.wpconceptostramoupd.aspx</ObjLink>
   </Object>
   <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>SegCtrl.wpReporteGene</ObjName>
+    <ObjDesc>SegCtrl.wp Reporte Gene</ObjDesc>
+    <ObjLink>segctrl.wpreportegene.aspx</ObjLink>
+  </Object>
+  <Object>
     <ObjCls>1</ObjCls>
     <ObjName>WWPBaseObjects.WWP_DownloadReport</ObjName>
     <ObjDesc>WWPBaseObjects.Download Report</ObjDesc>
