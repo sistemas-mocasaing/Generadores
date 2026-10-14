@@ -48,6 +48,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Aspose.Cells": {
+              "target": "Package",
+              "version": "[24.11.0, )"
+            },
             "EPPlus": {
               "target": "Package",
               "version": "[7.2.0, )"

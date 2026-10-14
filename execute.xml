@@ -2505,7 +2505,7 @@
   </Object>
   <Object>
     <ObjCls>13</ObjCls>
-    <ObjName>SegCtrl.wpBacheReporteDiario</ObjName>
+    <ObjName>segctrl.wpBacheReporteDiario</ObjName>
     <ObjDesc>SegCtrl.wp Bache Reporte Diario</ObjDesc>
     <ObjLink>segctrl.wpbachereportediario.aspx</ObjLink>
   </Object>
