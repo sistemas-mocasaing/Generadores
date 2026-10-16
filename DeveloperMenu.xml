@@ -2507,7 +2507,7 @@
    </Object>
    <Object>
       <ObjCls>13</ObjCls>
-      <ObjName>segctrl.wpBacheReporteDiario</ObjName>
+      <ObjName>SegCtrl.wpBacheReporteDiario</ObjName>
       <ObjDesc>SegCtrl.wp Bache Reporte Diario</ObjDesc>
       <ObjLink>segctrl.wpbachereportediario.aspx</ObjLink>
    </Object>
@@ -2555,13 +2555,13 @@
    </Object>
    <Object>
       <ObjCls>13</ObjCls>
-      <ObjName>segctrl.wpReporteGen</ObjName>
+      <ObjName>SegCtrl.wpReporteGen</ObjName>
       <ObjDesc>SegCtrl.wp Reporte Gen</ObjDesc>
       <ObjLink>segctrl.wpreportegen.aspx</ObjLink>
    </Object>
    <Object>
       <ObjCls>13</ObjCls>
-      <ObjName>segctrl.wpConceptosTramoUpd</ObjName>
+      <ObjName>SegCtrl.wpConceptosTramoUpd</ObjName>
       <ObjDesc>SegCtrl.wp Conceptos Tramo Upd</ObjDesc>
       <ObjLink>segctrl.wpconceptostramoupd.aspx</ObjLink>
    </Object>
@@ -2669,7 +2669,7 @@
    </Object>
    <Object>
       <ObjCls>1</ObjCls>
-      <ObjName>rechum.listvacacionesExportReport</ObjName>
+      <ObjName>RecHum.listvacacionesExportReport</ObjName>
       <ObjDesc>RecHum.listvacaciones Export Report</ObjDesc>
       <ObjLink>rechum.listvacacionesexportreport.aspx</ObjLink>
    </Object>
