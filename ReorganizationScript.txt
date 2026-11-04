@@ -1,3 +1,4 @@
-ALTER TABLE [GeneradoresConceptosTramo] ADD [GeneradoresConceptosTramoIsArchivo] BIT NOT NULL CONSTRAINT GeneradoresConceptosTramoIsArchivoGeneradoresConceptosTramo_DEFAULT DEFAULT convert(bit, 0);
-ALTER TABLE [GeneradoresConceptosTramo] DROP CONSTRAINT GeneradoresConceptosTramoIsArchivoGeneradoresConceptosTramo_DEFAULT;
+ALTER TABLE [AsignacionFechaGeneradores] ADD [AsignacionFechaGeneradoresSolRevicion] BIT NOT NULL CONSTRAINT AsignacionFechaGeneradoresSolRevicionAsignacionFechaGeneradores_DEFAULT DEFAULT convert(bit, 0), [AsignacionFechaGeneradoresSolMotivo] nvarchar(80) NOT NULL CONSTRAINT AsignacionFechaGeneradoresSolMotivoAsignacionFechaGeneradores_DEFAULT DEFAULT '';
+ALTER TABLE [AsignacionFechaGeneradores] DROP CONSTRAINT AsignacionFechaGeneradoresSolRevicionAsignacionFechaGeneradores_DEFAULT;
+ALTER TABLE [AsignacionFechaGeneradores] DROP CONSTRAINT AsignacionFechaGeneradoresSolMotivoAsignacionFechaGeneradores_DEFAULT;
 

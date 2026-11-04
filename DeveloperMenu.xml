@@ -1553,12 +1553,6 @@
    </Object>
    <Object>
       <ObjCls>0</ObjCls>
-      <ObjName>SegCtrl.AsignacionFechaGeneradores</ObjName>
-      <ObjDesc>SegCtrl.Asignacion Fecha Generadores</ObjDesc>
-      <ObjLink>segctrl.asignacionfechageneradores.aspx</ObjLink>
-   </Object>
-   <Object>
-      <ObjCls>0</ObjCls>
       <ObjName>SICT.GeneradoresTrabajoDatos</ObjName>
       <ObjDesc>SICT.Generadores Trabajo Datos</ObjDesc>
       <ObjLink>sict.generadorestrabajodatos.aspx</ObjLink>
