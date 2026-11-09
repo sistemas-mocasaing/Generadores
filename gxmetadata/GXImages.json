@@ -1,0 +1,66 @@
+{ 
+    "Resources" : [ { 
+        "IsDefault" : true,
+        "ResourceFile" : "Images_DEFAULT.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "CarmineSD",
+        "ResourceFile" : "Images_Spanish_CarmineSD.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoWeb",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoWeb.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.Unanimo",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_Unanimo.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoControls",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoControls.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoMobile",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoMobile.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoAngular",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoAngular.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "Mocasa",
+        "ResourceFile" : "Images_Spanish_Mocasa.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "WorkWithPlusGAMDS",
+        "ResourceFile" : "Images_Spanish_WorkWithPlusGAMDS.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "WorkWithPlusDS",
+        "ResourceFile" : "Images_Spanish_WorkWithPlusDS.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "WWPBaseObjects.WorkWithPlusBaseDS",
+        "ResourceFile" : "Images_Spanish_WWPBaseObjects_WorkWithPlusBaseDS.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "CustomMocasa",
+        "ResourceFile" : "Images_Spanish_CustomMocasa.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusReporting.DashboardViewerWeb",
+        "ResourceFile" : "Images_Spanish_GeneXusReporting_DashboardViewerWeb.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusReporting.QueryViewerWeb",
+        "ResourceFile" : "Images_Spanish_GeneXusReporting_QueryViewerWeb.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GAMDesignSystem",
+        "ResourceFile" : "Images_Spanish_GAMDesignSystem.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusReporting.QueryViewer",
+        "ResourceFile" : "Images_Spanish_GeneXusReporting_QueryViewer.json"
+    } ]
+}

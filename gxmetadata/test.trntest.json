@@ -1,0 +1,4 @@
+{
+
+"GxObject":{"ObjectType":"BusinessComponent","Name":"Test.TrnTest","idConnectivitySupport":"idInherit","Structure":{"Levels":[{"Name":"Trntest","ParentLevel":"","LevelName":"Test.TrnTest","Description":"Trn Test","Attributes":[{"Name":"TrnTestId","Caption":"Trn Test Id","default":"0","AutoNumber":"true","IsKey":"true","ReadOnly":"false","AttributeType":"int","Description":"Trn Test Id","Length":"18","Decimals":"0","Signed":"false","AllowDBNulls":"false","Domain":"Id","InternalName":"TrnTestId","InputPicture":"ZZZZZZZZZZZZZZZZZ9","Type":"xs:int"},{"Name":"TrnTestName","Caption":"Trn Test Name","default":"","IsKey":"false","ReadOnly":"false","AttributeType":"svchar","Description":"Trn Test Name","Length":"160","Decimals":"0","Signed":"false","AllowDBNulls":"false","Domain":"Name","InternalName":"TrnTestName","DescriptionAtt":"true","InputPicture":"","Type":"xs:string"}]}]},"Relations":{"ManyToOne":{"references":[]}}}
+}
